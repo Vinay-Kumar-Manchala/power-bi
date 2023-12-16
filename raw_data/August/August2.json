@@ -1,0 +1,3493 @@
+{
+    "success": true,
+    "data": {
+        "results": [
+            {
+                "unitId": "T2308221554448514134720",
+                "merchantId": "MSE3PJ6T5",
+                "transactionId": "T2308221554448514134720",
+                "transactionType": "FORWARD",
+                "paymentState": "COMPLETED",
+                "amount": 290000,
+                "merchantTransactionId": "TXSCAN2308221554387906174485",
+                "merchantOrderId": "TXSCAN2308221554387906174485",
+                "providerReferenceId": "T2308221554448514134720",
+                "instrumentDetails": [
+                    {
+                        "instrumentType": "ACCOUNT",
+                        "displayName": "Account",
+                        "amount": 289800
+                    },
+                    {
+                        "instrumentType": "WALLET",
+                        "displayName": "Wallet",
+                        "amount": 200
+                    }
+                ],
+                "transactionDate": 1692699888800,
+                "merchantDetails": {
+                    "merchantId": "MSE3PJ6T5",
+                    "storeId": "MS1912261329389470000004",
+                    "terminalId": "MST1912261333279670000003",
+                    "storeName": "Tirumala Traders",
+                    "terminalName": "Terminal 2",
+                    "qrCodeId": "Q97338933",
+                    "merchantType": "P2M_LIMITED"
+                },
+                "customerDetails": {
+                    "userId": "U1807052019364029381605",
+                    "phoneNumber": "+xx 79xxxxxx45",
+                    "userName": "Madhavareddy"
+                },
+                "paymentApp": {
+                    "paymentApp": "PHONEPE",
+                    "logo": "https://docs.phonepe.com/cdn-cgi/image/width=72,height=72/public/HnkGH3cB-p02LmDCvk_0",
+                    "displayText": "Wallet"
+                },
+                "utr": "360070323852",
+                "payResponseCode": "SUCCESS",
+                "globalPaymentId": "T2308221554448514134720",
+                "offerAdjustment": 0,
+                "cashbackApplied": false,
+                "instrumentLevelSettlementDetails": {
+                    "UPI_FULFILMENT": {
+                        "totalAmount": 2898.0,
+                        "settlementAmount": 2898.0,
+                        "transactionId": "T2308221554448514134720",
+                        "utr": "AXNPN32352881829"
+                    },
+                    "WALLET_FULFILMENT": {
+                        "totalAmount": 2.0,
+                        "settlementAmount": 1.98,
+                        "transactionId": "T2308221554448514134720",
+                        "utr": "AXNPN32352881829"
+                    }
+                },
+                "settlement": {
+                    "settlementList": [
+                        {
+                            "utr": "AXNPN32352881829",
+                            "status": "COMPLETED",
+                            "settlementDate": 1692944079795,
+                            "settlementAmount": 2898.0
+                        },
+                        {
+                            "utr": "AXNPN32352881829",
+                            "status": "COMPLETED",
+                            "settlementDate": 1692944079795,
+                            "settlementAmount": 1.98
+                        }
+                    ],
+                    "status": "SETTLED"
+                },
+                "vasDetails": [
+                ],
+                "refundTransactions": [
+                ],
+                "additionalTransactionDetails": [
+                ],
+                "externalVPATransaction": false
+            },
+            {
+                "unitId": "T2308221438591782736785",
+                "merchantId": "MSE3PJ6T5",
+                "transactionId": "T2308221438591782736785",
+                "transactionType": "FORWARD",
+                "paymentState": "COMPLETED",
+                "amount": 154000,
+                "merchantTransactionId": "TXSCAN2308221438534868361300",
+                "merchantOrderId": "TXSCAN2308221438534868361300",
+                "providerReferenceId": "T2308221438591782736785",
+                "instrumentDetails": [
+                    {
+                        "instrumentType": "ACCOUNT",
+                        "displayName": "Account",
+                        "amount": 154000
+                    }
+                ],
+                "transactionDate": 1692695343856,
+                "merchantDetails": {
+                    "merchantId": "MSE3PJ6T5",
+                    "storeId": "MS1912261329389470000004",
+                    "terminalId": "MST1912261333279670000003",
+                    "storeName": "Tirumala Traders",
+                    "terminalName": "Terminal 2",
+                    "qrCodeId": "Q97338933",
+                    "merchantType": "P2M_LIMITED"
+                },
+                "customerDetails": {
+                    "userId": "U2107271219303473624379",
+                    "phoneNumber": "+xx 91xxxxxx11",
+                    "userName": "******8411"
+                },
+                "paymentApp": {
+                    "paymentApp": "PHONEPE",
+                    "logo": "https://docs.phonepe.com/cdn-cgi/image/width=72,height=72/public/iRaxW3IBCyTN0em5mLoD",
+                    "displayText": "PhonePe"
+                },
+                "utr": "360026779574",
+                "payResponseCode": "SUCCESS",
+                "globalPaymentId": "T2308221438591782736785",
+                "offerAdjustment": 0,
+                "cashbackApplied": false,
+                "instrumentLevelSettlementDetails": {
+                    "UPI_FULFILMENT": {
+                        "totalAmount": 1540.0,
+                        "settlementAmount": 1540.0,
+                        "transactionId": "T2308221438591782736785",
+                        "utr": "AXNPN32352881829"
+                    }
+                },
+                "settlement": {
+                    "settlementList": [
+                        {
+                            "utr": "AXNPN32352881829",
+                            "status": "COMPLETED",
+                            "settlementDate": 1692944079795,
+                            "settlementAmount": 1540.0
+                        }
+                    ],
+                    "status": "SETTLED"
+                },
+                "vasDetails": [
+                ],
+                "refundTransactions": [
+                ],
+                "additionalTransactionDetails": [
+                ],
+                "externalVPATransaction": false
+            },
+            {
+                "unitId": "T2308221043251899609577",
+                "merchantId": "MSE3PJ6T5",
+                "transactionId": "T2308221043251899609577",
+                "transactionType": "FORWARD",
+                "paymentState": "COMPLETED",
+                "amount": 3000,
+                "merchantTransactionId": "TXSCAN2308221043098774134029",
+                "merchantOrderId": "TXSCAN2308221043098774134029",
+                "providerReferenceId": "T2308221043251899609577",
+                "instrumentDetails": [
+                    {
+                        "instrumentType": "ACCOUNT",
+                        "displayName": "Account",
+                        "amount": 3000
+                    }
+                ],
+                "transactionDate": 1692681209657,
+                "merchantDetails": {
+                    "merchantId": "MSE3PJ6T5",
+                    "storeId": "MS1912261329389470000004",
+                    "terminalId": "MST1912261333279670000003",
+                    "storeName": "Tirumala Traders",
+                    "terminalName": "Terminal 2",
+                    "qrCodeId": "Q97338933",
+                    "merchantType": "P2M_LIMITED"
+                },
+                "customerDetails": {
+                    "userId": "U1901081219458198547628",
+                    "phoneNumber": "+xx 90xxxxxx01",
+                    "userName": "b.venkata krishana rao"
+                },
+                "paymentApp": {
+                    "paymentApp": "PHONEPE",
+                    "logo": "https://docs.phonepe.com/cdn-cgi/image/width=72,height=72/public/iRaxW3IBCyTN0em5mLoD",
+                    "displayText": "PhonePe"
+                },
+                "utr": "323469665226",
+                "payResponseCode": "SUCCESS",
+                "globalPaymentId": "T2308221043251899609577",
+                "offerAdjustment": 0,
+                "cashbackApplied": false,
+                "instrumentLevelSettlementDetails": {
+                    "UPI_FULFILMENT": {
+                        "totalAmount": 30.0,
+                        "settlementAmount": 30.0,
+                        "transactionId": "T2308221043251899609577",
+                        "utr": "AXNPN32352881829"
+                    }
+                },
+                "settlement": {
+                    "settlementList": [
+                        {
+                            "utr": "AXNPN32352881829",
+                            "status": "COMPLETED",
+                            "settlementDate": 1692944079795,
+                            "settlementAmount": 30.0
+                        }
+                    ],
+                    "status": "SETTLED"
+                },
+                "vasDetails": [
+                ],
+                "refundTransactions": [
+                ],
+                "additionalTransactionDetails": [
+                ],
+                "externalVPATransaction": false
+            },
+            {
+                "unitId": "T2308211815137188009414",
+                "merchantId": "MSE3PJ6T5",
+                "transactionId": "T2308211815137188009414",
+                "transactionType": "FORWARD",
+                "paymentState": "COMPLETED",
+                "amount": 72500,
+                "merchantTransactionId": "TXSCAN2308211814576467074635",
+                "merchantOrderId": "TXSCAN2308211814576467074635",
+                "providerReferenceId": "T2308211815137188009414",
+                "instrumentDetails": [
+                    {
+                        "instrumentType": "ACCOUNT",
+                        "displayName": "Account",
+                        "amount": 72500
+                    }
+                ],
+                "transactionDate": 1692621918936,
+                "merchantDetails": {
+                    "merchantId": "MSE3PJ6T5",
+                    "storeId": "MS1912261329389470000004",
+                    "terminalId": "MST1912261333279670000003",
+                    "storeName": "Tirumala Traders",
+                    "terminalName": "Terminal 2",
+                    "qrCodeId": "Q97338933",
+                    "merchantType": "P2M_LIMITED"
+                },
+                "customerDetails": {
+                    "userId": "U2004072010576402968357",
+                    "phoneNumber": "+xx 79xxxxxx96",
+                    "userName": "******8096"
+                },
+                "paymentApp": {
+                    "paymentApp": "PHONEPE",
+                    "logo": "https://docs.phonepe.com/cdn-cgi/image/width=72,height=72/public/iRaxW3IBCyTN0em5mLoD",
+                    "displayText": "PhonePe"
+                },
+                "utr": "323340196544",
+                "payResponseCode": "SUCCESS",
+                "globalPaymentId": "T2308211815137188009414",
+                "offerAdjustment": 0,
+                "transactionNote": "Bearings ",
+                "cashbackApplied": false,
+                "instrumentLevelSettlementDetails": {
+                    "UPI_FULFILMENT": {
+                        "totalAmount": 725.0,
+                        "settlementAmount": 725.0,
+                        "transactionId": "T2308211815137188009414",
+                        "utr": "AXNPN32349889359"
+                    }
+                },
+                "settlement": {
+                    "settlementList": [
+                        {
+                            "utr": "AXNPN32349889359",
+                            "status": "COMPLETED",
+                            "settlementDate": 1692861745374,
+                            "settlementAmount": 725.0
+                        }
+                    ],
+                    "status": "SETTLED"
+                },
+                "vasDetails": [
+                ],
+                "refundTransactions": [
+                ],
+                "additionalTransactionDetails": [
+                ],
+                "externalVPATransaction": false
+            },
+            {
+                "unitId": "T2308211756376002415182",
+                "merchantId": "MSE3PJ6T5",
+                "transactionId": "T2308211756376002415182",
+                "transactionType": "FORWARD",
+                "paymentState": "COMPLETED",
+                "amount": 180000,
+                "merchantTransactionId": "TXSCAN2308211756286302987489",
+                "merchantOrderId": "TXSCAN2308211756286302987489",
+                "providerReferenceId": "T2308211756376002415182",
+                "instrumentDetails": [
+                    {
+                        "instrumentType": "ACCOUNT",
+                        "displayName": "Account",
+                        "amount": 180000
+                    }
+                ],
+                "transactionDate": 1692620801151,
+                "merchantDetails": {
+                    "merchantId": "MSE3PJ6T5",
+                    "storeId": "MS1912261329389470000004",
+                    "terminalId": "MST1912261333279670000003",
+                    "storeName": "Tirumala Traders",
+                    "terminalName": "Terminal 2",
+                    "qrCodeId": "Q97338933",
+                    "merchantType": "P2M_LIMITED"
+                },
+                "customerDetails": {
+                    "userId": "U1907122023362546287417",
+                    "phoneNumber": "+xx 96xxxxxx44",
+                    "userName": "siva"
+                },
+                "paymentApp": {
+                    "paymentApp": "PHONEPE",
+                    "logo": "https://docs.phonepe.com/cdn-cgi/image/width=72,height=72/public/iRaxW3IBCyTN0em5mLoD",
+                    "displayText": "PhonePe"
+                },
+                "utr": "359955401479",
+                "payResponseCode": "SUCCESS",
+                "globalPaymentId": "T2308211756376002415182",
+                "offerAdjustment": 0,
+                "cashbackApplied": false,
+                "instrumentLevelSettlementDetails": {
+                    "UPI_FULFILMENT": {
+                        "totalAmount": 1800.0,
+                        "settlementAmount": 1800.0,
+                        "transactionId": "T2308211756376002415182",
+                        "utr": "AXNPN32349889359"
+                    }
+                },
+                "settlement": {
+                    "settlementList": [
+                        {
+                            "utr": "AXNPN32349889359",
+                            "status": "COMPLETED",
+                            "settlementDate": 1692861745374,
+                            "settlementAmount": 1800.0
+                        }
+                    ],
+                    "status": "SETTLED"
+                },
+                "vasDetails": [
+                ],
+                "refundTransactions": [
+                ],
+                "additionalTransactionDetails": [
+                ],
+                "externalVPATransaction": false
+            },
+            {
+                "unitId": "T2308211718007234277274",
+                "merchantId": "MSE3PJ6T5",
+                "transactionId": "T2308211718007234277274",
+                "transactionType": "FORWARD",
+                "paymentState": "COMPLETED",
+                "amount": 35000,
+                "merchantTransactionId": "TXSCAN2308211717530484925039",
+                "merchantOrderId": "TXSCAN2308211717530484925039",
+                "providerReferenceId": "T2308211718007234277274",
+                "instrumentDetails": [
+                    {
+                        "instrumentType": "ACCOUNT",
+                        "displayName": "Account",
+                        "amount": 35000
+                    }
+                ],
+                "transactionDate": 1692618489135,
+                "merchantDetails": {
+                    "merchantId": "MSE3PJ6T5",
+                    "storeId": "MS1912261329389470000004",
+                    "terminalId": "MST1912261333279670000003",
+                    "storeName": "Tirumala Traders",
+                    "terminalName": "Terminal 2",
+                    "qrCodeId": "Q97338933",
+                    "merchantType": "P2M_LIMITED"
+                },
+                "customerDetails": {
+                    "userId": "U1904031651309392169171",
+                    "phoneNumber": "+xx 94xxxxxx93",
+                    "userName": "ramana reddy"
+                },
+                "paymentApp": {
+                    "paymentApp": "PHONEPE",
+                    "logo": "https://docs.phonepe.com/cdn-cgi/image/width=72,height=72/public/iRaxW3IBCyTN0em5mLoD",
+                    "displayText": "PhonePe"
+                },
+                "utr": "359979194267",
+                "payResponseCode": "SUCCESS",
+                "globalPaymentId": "T2308211718007234277274",
+                "offerAdjustment": 0,
+                "cashbackApplied": false,
+                "instrumentLevelSettlementDetails": {
+                    "UPI_FULFILMENT": {
+                        "totalAmount": 350.0,
+                        "settlementAmount": 350.0,
+                        "transactionId": "T2308211718007234277274",
+                        "utr": "AXNPN32349889359"
+                    }
+                },
+                "settlement": {
+                    "settlementList": [
+                        {
+                            "utr": "AXNPN32349889359",
+                            "status": "COMPLETED",
+                            "settlementDate": 1692861745374,
+                            "settlementAmount": 350.0
+                        }
+                    ],
+                    "status": "SETTLED"
+                },
+                "vasDetails": [
+                ],
+                "refundTransactions": [
+                ],
+                "additionalTransactionDetails": [
+                ],
+                "externalVPATransaction": false
+            },
+            {
+                "unitId": "T2308211624571873218324",
+                "merchantId": "MSE3PJ6T5",
+                "transactionId": "T2308211624571873218324",
+                "transactionType": "FORWARD",
+                "paymentState": "COMPLETED",
+                "amount": 18000,
+                "merchantTransactionId": "TXSCAN2308211624388747083235",
+                "merchantOrderId": "TXSCAN2308211624388747083235",
+                "providerReferenceId": "T2308211624571873218324",
+                "instrumentDetails": [
+                    {
+                        "instrumentType": "ACCOUNT",
+                        "displayName": "Account",
+                        "amount": 18000
+                    }
+                ],
+                "transactionDate": 1692615305005,
+                "merchantDetails": {
+                    "merchantId": "MSE3PJ6T5",
+                    "storeId": "MS1912261329389470000004",
+                    "terminalId": "MST1912261333279670000003",
+                    "storeName": "Tirumala Traders",
+                    "terminalName": "Terminal 2",
+                    "qrCodeId": "Q97338933",
+                    "merchantType": "P2M_LIMITED"
+                },
+                "customerDetails": {
+                    "userId": "U1711161443238029897229",
+                    "phoneNumber": "+xx 94xxxxxx63",
+                    "userName": "u.venkatadri"
+                },
+                "paymentApp": {
+                    "paymentApp": "PHONEPE",
+                    "logo": "https://docs.phonepe.com/cdn-cgi/image/width=72,height=72/public/iRaxW3IBCyTN0em5mLoD",
+                    "displayText": "PhonePe"
+                },
+                "utr": "359959407737",
+                "payResponseCode": "SUCCESS",
+                "globalPaymentId": "T2308211624571873218324",
+                "offerAdjustment": 0,
+                "cashbackApplied": false,
+                "instrumentLevelSettlementDetails": {
+                    "UPI_FULFILMENT": {
+                        "totalAmount": 180.0,
+                        "settlementAmount": 180.0,
+                        "transactionId": "T2308211624571873218324",
+                        "utr": "AXNPN32349889359"
+                    }
+                },
+                "settlement": {
+                    "settlementList": [
+                        {
+                            "utr": "AXNPN32349889359",
+                            "status": "COMPLETED",
+                            "settlementDate": 1692861745374,
+                            "settlementAmount": 180.0
+                        }
+                    ],
+                    "status": "SETTLED"
+                },
+                "vasDetails": [
+                ],
+                "refundTransactions": [
+                ],
+                "additionalTransactionDetails": [
+                ],
+                "externalVPATransaction": false
+            },
+            {
+                "unitId": "T2308211509298526716371",
+                "merchantId": "MSE3PJ6T5",
+                "transactionId": "T2308211509298526716371",
+                "transactionType": "FORWARD",
+                "paymentState": "COMPLETED",
+                "amount": 34000,
+                "merchantTransactionId": "TXSCAN2308211509212458009733",
+                "merchantOrderId": "TXSCAN2308211509212458009733",
+                "providerReferenceId": "T2308211509298526716371",
+                "instrumentDetails": [
+                    {
+                        "instrumentType": "ACCOUNT",
+                        "displayName": "Account",
+                        "amount": 34000
+                    }
+                ],
+                "transactionDate": 1692610773936,
+                "merchantDetails": {
+                    "merchantId": "MSE3PJ6T5",
+                    "storeId": "MS1912261329389470000004",
+                    "terminalId": "MST1912261333279670000003",
+                    "storeName": "Tirumala Traders",
+                    "terminalName": "Terminal 2",
+                    "qrCodeId": "Q97338933",
+                    "merchantType": "P2M_LIMITED"
+                },
+                "customerDetails": {
+                    "userId": "U2110161859187915433419",
+                    "phoneNumber": "+xx 63xxxxxx12",
+                    "userName": "K Samba"
+                },
+                "paymentApp": {
+                    "paymentApp": "PHONEPE",
+                    "logo": "https://docs.phonepe.com/cdn-cgi/image/width=72,height=72/public/iRaxW3IBCyTN0em5mLoD",
+                    "displayText": "PhonePe"
+                },
+                "utr": "323390266596",
+                "payResponseCode": "SUCCESS",
+                "globalPaymentId": "T2308211509298526716371",
+                "offerAdjustment": 0,
+                "cashbackApplied": false,
+                "instrumentLevelSettlementDetails": {
+                    "UPI_FULFILMENT": {
+                        "totalAmount": 340.0,
+                        "settlementAmount": 340.0,
+                        "transactionId": "T2308211509298526716371",
+                        "utr": "AXNPN32349889359"
+                    }
+                },
+                "settlement": {
+                    "settlementList": [
+                        {
+                            "utr": "AXNPN32349889359",
+                            "status": "COMPLETED",
+                            "settlementDate": 1692861745374,
+                            "settlementAmount": 340.0
+                        }
+                    ],
+                    "status": "SETTLED"
+                },
+                "vasDetails": [
+                ],
+                "refundTransactions": [
+                ],
+                "additionalTransactionDetails": [
+                ],
+                "externalVPATransaction": false
+            },
+            {
+                "unitId": "T2308211036406367592484",
+                "merchantId": "MSE3PJ6T5",
+                "transactionId": "T2308211036406367592484",
+                "transactionType": "FORWARD",
+                "paymentState": "COMPLETED",
+                "amount": 5000,
+                "merchantTransactionId": "TXSCAN2308211036346127153420",
+                "merchantOrderId": "TXSCAN2308211036346127153420",
+                "providerReferenceId": "T2308211036406367592484",
+                "instrumentDetails": [
+                    {
+                        "instrumentType": "ACCOUNT",
+                        "displayName": "Account",
+                        "amount": 5000
+                    }
+                ],
+                "transactionDate": 1692594405911,
+                "merchantDetails": {
+                    "merchantId": "MSE3PJ6T5",
+                    "storeId": "MS1912261329389470000004",
+                    "terminalId": "MST1912261333279670000003",
+                    "storeName": "Tirumala Traders",
+                    "terminalName": "Terminal 2",
+                    "qrCodeId": "Q97338933",
+                    "merchantType": "P2M_LIMITED"
+                },
+                "customerDetails": {
+                    "userId": "U1910052030337760143267",
+                    "phoneNumber": "+xx 77xxxxxx57",
+                    "userName": "syed Rasool"
+                },
+                "paymentApp": {
+                    "paymentApp": "PHONEPE",
+                    "logo": "https://docs.phonepe.com/cdn-cgi/image/width=72,height=72/public/iRaxW3IBCyTN0em5mLoD",
+                    "displayText": "PhonePe"
+                },
+                "utr": "359904370575",
+                "payResponseCode": "SUCCESS",
+                "globalPaymentId": "T2308211036406367592484",
+                "offerAdjustment": 0,
+                "cashbackApplied": false,
+                "instrumentLevelSettlementDetails": {
+                    "UPI_FULFILMENT": {
+                        "totalAmount": 50.0,
+                        "settlementAmount": 50.0,
+                        "transactionId": "T2308211036406367592484",
+                        "utr": "AXNPN32349889359"
+                    }
+                },
+                "settlement": {
+                    "settlementList": [
+                        {
+                            "utr": "AXNPN32349889359",
+                            "status": "COMPLETED",
+                            "settlementDate": 1692861745374,
+                            "settlementAmount": 50.0
+                        }
+                    ],
+                    "status": "SETTLED"
+                },
+                "vasDetails": [
+                ],
+                "refundTransactions": [
+                ],
+                "additionalTransactionDetails": [
+                ],
+                "externalVPATransaction": false
+            },
+            {
+                "unitId": "T2308210824173997251318",
+                "merchantId": "MSE3PJ6T5",
+                "transactionId": "T2308210824173997251318",
+                "transactionType": "FORWARD",
+                "paymentState": "COMPLETED",
+                "amount": 60000,
+                "merchantTransactionId": "TXSCAN2308210823558475083995",
+                "merchantOrderId": "TXSCAN2308210823558475083995",
+                "providerReferenceId": "T2308210824173997251318",
+                "instrumentDetails": [
+                    {
+                        "instrumentType": "ACCOUNT",
+                        "displayName": "Account",
+                        "amount": 60000
+                    }
+                ],
+                "transactionDate": 1692586462172,
+                "merchantDetails": {
+                    "merchantId": "MSE3PJ6T5",
+                    "storeId": "MS1912261329389470000004",
+                    "terminalId": "MST1912261333279670000003",
+                    "storeName": "Tirumala Traders",
+                    "terminalName": "Terminal 2",
+                    "qrCodeId": "Q97338933",
+                    "merchantType": "P2M_LIMITED"
+                },
+                "customerDetails": {
+                    "userId": "U1906220652226343300131",
+                    "phoneNumber": "+xx 94xxxxxx13",
+                    "userName": "Ravi"
+                },
+                "paymentApp": {
+                    "paymentApp": "PHONEPE",
+                    "logo": "https://docs.phonepe.com/cdn-cgi/image/width=72,height=72/public/iRaxW3IBCyTN0em5mLoD",
+                    "displayText": "PhonePe"
+                },
+                "utr": "359976491127",
+                "payResponseCode": "SUCCESS",
+                "globalPaymentId": "T2308210824173997251318",
+                "offerAdjustment": 0,
+                "cashbackApplied": false,
+                "instrumentLevelSettlementDetails": {
+                    "UPI_FULFILMENT": {
+                        "totalAmount": 600.0,
+                        "settlementAmount": 600.0,
+                        "transactionId": "T2308210824173997251318",
+                        "utr": "AXNPN32349889359"
+                    }
+                },
+                "settlement": {
+                    "settlementList": [
+                        {
+                            "utr": "AXNPN32349889359",
+                            "status": "COMPLETED",
+                            "settlementDate": 1692861745374,
+                            "settlementAmount": 600.0
+                        }
+                    ],
+                    "status": "SETTLED"
+                },
+                "vasDetails": [
+                ],
+                "refundTransactions": [
+                ],
+                "additionalTransactionDetails": [
+                ],
+                "externalVPATransaction": false
+            },
+            {
+                "unitId": "T2308201525282157635170",
+                "merchantId": "MSE3PJ6T5",
+                "transactionId": "T2308201525282157635170",
+                "transactionType": "FORWARD",
+                "paymentState": "COMPLETED",
+                "amount": 107000,
+                "merchantTransactionId": "TXSCAN2308201525204083705686",
+                "merchantOrderId": "TXSCAN2308201525204083705686",
+                "providerReferenceId": "T2308201525282157635170",
+                "instrumentDetails": [
+                    {
+                        "instrumentType": "ACCOUNT",
+                        "displayName": "Account",
+                        "amount": 107000
+                    }
+                ],
+                "transactionDate": 1692525333781,
+                "merchantDetails": {
+                    "merchantId": "MSE3PJ6T5",
+                    "storeId": "MS1912261329389470000004",
+                    "terminalId": "MST1912261333279670000003",
+                    "storeName": "Tirumala Traders",
+                    "terminalName": "Terminal 2",
+                    "qrCodeId": "Q97338933",
+                    "merchantType": "P2M_LIMITED"
+                },
+                "customerDetails": {
+                    "userId": "U1909201557328289642008",
+                    "phoneNumber": "+xx 96xxxxxx97",
+                    "userName": "Mahesh reddy"
+                },
+                "paymentApp": {
+                    "paymentApp": "PHONEPE",
+                    "logo": "https://docs.phonepe.com/cdn-cgi/image/width=72,height=72/public/iRaxW3IBCyTN0em5mLoD",
+                    "displayText": "PhonePe"
+                },
+                "utr": "323256089737",
+                "payResponseCode": "SUCCESS",
+                "globalPaymentId": "T2308201525282157635170",
+                "offerAdjustment": 0,
+                "cashbackApplied": false,
+                "instrumentLevelSettlementDetails": {
+                    "UPI_FULFILMENT": {
+                        "totalAmount": 1070.0,
+                        "settlementAmount": 1070.0,
+                        "transactionId": "T2308201525282157635170",
+                        "utr": "AXNPN32336898617"
+                    }
+                },
+                "settlement": {
+                    "settlementList": [
+                        {
+                            "utr": "AXNPN32336898617",
+                            "status": "COMPLETED",
+                            "settlementDate": 1692766871678,
+                            "settlementAmount": 1070.0
+                        }
+                    ],
+                    "status": "SETTLED"
+                },
+                "vasDetails": [
+                ],
+                "refundTransactions": [
+                ],
+                "additionalTransactionDetails": [
+                ],
+                "externalVPATransaction": false
+            },
+            {
+                "unitId": "T2308201518154107843995",
+                "merchantId": "MSE3PJ6T5",
+                "transactionId": "T2308201518154107843995",
+                "transactionType": "FORWARD",
+                "paymentState": "COMPLETED",
+                "amount": 125000,
+                "merchantTransactionId": "TXSCAN2308201516118104400347",
+                "merchantOrderId": "TXSCAN2308201516118104400347",
+                "providerReferenceId": "T2308201518154107843995",
+                "instrumentDetails": [
+                    {
+                        "instrumentType": "ACCOUNT",
+                        "displayName": "Account",
+                        "amount": 125000
+                    }
+                ],
+                "transactionDate": 1692524899318,
+                "merchantDetails": {
+                    "merchantId": "MSE3PJ6T5",
+                    "storeId": "MS1912261329389470000004",
+                    "terminalId": "MST1912261333279670000003",
+                    "storeName": "Tirumala Traders",
+                    "terminalName": "Terminal 2",
+                    "qrCodeId": "Q97338933",
+                    "merchantType": "P2M_LIMITED"
+                },
+                "customerDetails": {
+                    "userId": "U1910291843493493162857",
+                    "phoneNumber": "+xx 95xxxxxx07",
+                    "userName": "p suresh ss"
+                },
+                "paymentApp": {
+                    "paymentApp": "PHONEPE",
+                    "logo": "https://docs.phonepe.com/cdn-cgi/image/width=72,height=72/public/iRaxW3IBCyTN0em5mLoD",
+                    "displayText": "PhonePe"
+                },
+                "utr": "323285804211",
+                "payResponseCode": "SUCCESS",
+                "globalPaymentId": "T2308201518154107843995",
+                "offerAdjustment": 0,
+                "cashbackApplied": false,
+                "instrumentLevelSettlementDetails": {
+                    "UPI_FULFILMENT": {
+                        "totalAmount": 1250.0,
+                        "settlementAmount": 1250.0,
+                        "transactionId": "T2308201518154107843995",
+                        "utr": "AXNPN32336898617"
+                    }
+                },
+                "settlement": {
+                    "settlementList": [
+                        {
+                            "utr": "AXNPN32336898617",
+                            "status": "COMPLETED",
+                            "settlementDate": 1692766871678,
+                            "settlementAmount": 1250.0
+                        }
+                    ],
+                    "status": "SETTLED"
+                },
+                "vasDetails": [
+                ],
+                "refundTransactions": [
+                ],
+                "additionalTransactionDetails": [
+                ],
+                "externalVPATransaction": false
+            },
+            {
+                "unitId": "T2308201410164477900390",
+                "merchantId": "MSE3PJ6T5",
+                "transactionId": "T2308201410164477900390",
+                "transactionType": "FORWARD",
+                "paymentState": "COMPLETED",
+                "amount": 2000,
+                "merchantTransactionId": "TXSCAN2308201410141384148208",
+                "merchantOrderId": "TXSCAN2308201410141384148208",
+                "providerReferenceId": "T2308201410164477900390",
+                "instrumentDetails": [
+                    {
+                        "instrumentType": "ACCOUNT",
+                        "displayName": "Account",
+                        "amount": 2000
+                    }
+                ],
+                "transactionDate": 1692520818870,
+                "merchantDetails": {
+                    "merchantId": "MSE3PJ6T5",
+                    "storeId": "MS1912261329389470000004",
+                    "terminalId": "MST1912261333279670000003",
+                    "storeName": "Tirumala Traders",
+                    "terminalName": "Terminal 2",
+                    "qrCodeId": "Q97338933",
+                    "merchantType": "P2M_LIMITED"
+                },
+                "customerDetails": {
+                    "userId": "U1912061239376637253461",
+                    "phoneNumber": "+xx 96xxxxxx91",
+                    "userName": "pavan kalyan gunji"
+                },
+                "paymentApp": {
+                    "paymentApp": "PHONEPE",
+                    "logo": "https://docs.phonepe.com/cdn-cgi/image/width=72,height=72/public/iRaxW3IBCyTN0em5mLoD",
+                    "displayText": "PhonePe"
+                },
+                "utr": "323247837146",
+                "payResponseCode": "SUCCESS",
+                "globalPaymentId": "T2308201410164477900390",
+                "offerAdjustment": 0,
+                "cashbackApplied": false,
+                "instrumentLevelSettlementDetails": {
+                    "UPI_FULFILMENT": {
+                        "totalAmount": 20.0,
+                        "settlementAmount": 20.0,
+                        "transactionId": "T2308201410164477900390",
+                        "utr": "AXNPN32336898617"
+                    }
+                },
+                "settlement": {
+                    "settlementList": [
+                        {
+                            "utr": "AXNPN32336898617",
+                            "status": "COMPLETED",
+                            "settlementDate": 1692766871678,
+                            "settlementAmount": 20.0
+                        }
+                    ],
+                    "status": "SETTLED"
+                },
+                "vasDetails": [
+                ],
+                "refundTransactions": [
+                ],
+                "additionalTransactionDetails": [
+                ],
+                "externalVPATransaction": false
+            },
+            {
+                "unitId": "T2308201408345257083968",
+                "merchantId": "MSE3PJ6T5",
+                "transactionId": "T2308201408345257083968",
+                "transactionType": "FORWARD",
+                "paymentState": "COMPLETED",
+                "amount": 48500,
+                "merchantTransactionId": "TXSCAN2308201408247103669777",
+                "merchantOrderId": "TXSCAN2308201408247103669777",
+                "providerReferenceId": "T2308201408345257083968",
+                "instrumentDetails": [
+                    {
+                        "instrumentType": "ACCOUNT",
+                        "displayName": "Account",
+                        "amount": 48500
+                    }
+                ],
+                "transactionDate": 1692520719217,
+                "merchantDetails": {
+                    "merchantId": "MSE3PJ6T5",
+                    "storeId": "MS1912261329389470000004",
+                    "terminalId": "MST1912261333279670000003",
+                    "storeName": "Tirumala Traders",
+                    "terminalName": "Terminal 2",
+                    "qrCodeId": "Q97338933",
+                    "merchantType": "P2M_LIMITED"
+                },
+                "customerDetails": {
+                    "userId": "U2108091638538938923834",
+                    "phoneNumber": "+xx 85xxxxxx70",
+                    "userName": "RESILIO GLOBAL EXIM PVT LTD"
+                },
+                "paymentApp": {
+                    "paymentApp": "PHONEPE",
+                    "logo": "https://docs.phonepe.com/cdn-cgi/image/width=72,height=72/public/iRaxW3IBCyTN0em5mLoD",
+                    "displayText": "PhonePe"
+                },
+                "utr": "323290574343",
+                "payResponseCode": "SUCCESS",
+                "globalPaymentId": "T2308201408345257083968",
+                "offerAdjustment": 0,
+                "cashbackApplied": false,
+                "instrumentLevelSettlementDetails": {
+                    "UPI_FULFILMENT": {
+                        "totalAmount": 485.0,
+                        "settlementAmount": 485.0,
+                        "transactionId": "T2308201408345257083968",
+                        "utr": "AXNPN32336898617"
+                    }
+                },
+                "settlement": {
+                    "settlementList": [
+                        {
+                            "utr": "AXNPN32336898617",
+                            "status": "COMPLETED",
+                            "settlementDate": 1692766871678,
+                            "settlementAmount": 485.0
+                        }
+                    ],
+                    "status": "SETTLED"
+                },
+                "vasDetails": [
+                ],
+                "refundTransactions": [
+                ],
+                "additionalTransactionDetails": [
+                ],
+                "externalVPATransaction": false
+            },
+            {
+                "unitId": "T2308201257064310949561",
+                "merchantId": "MSE3PJ6T5",
+                "transactionId": "T2308201257064310949561",
+                "transactionType": "FORWARD",
+                "paymentState": "COMPLETED",
+                "amount": 36000,
+                "merchantTransactionId": "TXSCAN2308201256596859156989",
+                "merchantOrderId": "TXSCAN2308201256596859156989",
+                "providerReferenceId": "T2308201257064310949561",
+                "instrumentDetails": [
+                    {
+                        "instrumentType": "ACCOUNT",
+                        "displayName": "Account",
+                        "amount": 36000
+                    }
+                ],
+                "transactionDate": 1692516430407,
+                "merchantDetails": {
+                    "merchantId": "MSE3PJ6T5",
+                    "storeId": "MS1912261329389470000004",
+                    "terminalId": "MST1912261333279670000003",
+                    "storeName": "Tirumala Traders",
+                    "terminalName": "Terminal 2",
+                    "qrCodeId": "Q97338933",
+                    "merchantType": "P2M_LIMITED"
+                },
+                "customerDetails": {
+                    "userId": "U1808270725119671507322",
+                    "phoneNumber": "+xx 77xxxxxx39",
+                    "userName": "g nagendra"
+                },
+                "paymentApp": {
+                    "paymentApp": "PHONEPE",
+                    "logo": "https://docs.phonepe.com/cdn-cgi/image/width=72,height=72/public/iRaxW3IBCyTN0em5mLoD",
+                    "displayText": "PhonePe"
+                },
+                "utr": "359888872377",
+                "payResponseCode": "SUCCESS",
+                "globalPaymentId": "T2308201257064310949561",
+                "offerAdjustment": 0,
+                "cashbackApplied": false,
+                "instrumentLevelSettlementDetails": {
+                    "UPI_FULFILMENT": {
+                        "totalAmount": 360.0,
+                        "settlementAmount": 360.0,
+                        "transactionId": "T2308201257064310949561",
+                        "utr": "AXNPN32336898617"
+                    }
+                },
+                "settlement": {
+                    "settlementList": [
+                        {
+                            "utr": "AXNPN32336898617",
+                            "status": "COMPLETED",
+                            "settlementDate": 1692766871678,
+                            "settlementAmount": 360.0
+                        }
+                    ],
+                    "status": "SETTLED"
+                },
+                "vasDetails": [
+                ],
+                "refundTransactions": [
+                ],
+                "additionalTransactionDetails": [
+                ],
+                "externalVPATransaction": false
+            },
+            {
+                "unitId": "T2308201256006700948782",
+                "merchantId": "MSE3PJ6T5",
+                "transactionId": "T2308201256006700948782",
+                "transactionType": "FORWARD",
+                "paymentState": "COMPLETED",
+                "amount": 440000,
+                "merchantTransactionId": "TXSCAN2308201255490306567149",
+                "merchantOrderId": "TXSCAN2308201255490306567149",
+                "providerReferenceId": "T2308201256006700948782",
+                "instrumentDetails": [
+                    {
+                        "instrumentType": "ACCOUNT",
+                        "displayName": "Account",
+                        "amount": 440000
+                    }
+                ],
+                "transactionDate": 1692516367758,
+                "merchantDetails": {
+                    "merchantId": "MSE3PJ6T5",
+                    "storeId": "MS1912261329389470000004",
+                    "terminalId": "MST1912261333279670000003",
+                    "storeName": "Tirumala Traders",
+                    "terminalName": "Terminal 2",
+                    "qrCodeId": "Q97338933",
+                    "merchantType": "P2M_LIMITED"
+                },
+                "customerDetails": {
+                    "userId": "U1901022102034401578047",
+                    "phoneNumber": "+xx 83xxxxxx95",
+                    "userName": "Sd Shamshuddin"
+                },
+                "paymentApp": {
+                    "paymentApp": "PHONEPE",
+                    "logo": "https://docs.phonepe.com/cdn-cgi/image/width=72,height=72/public/iRaxW3IBCyTN0em5mLoD",
+                    "displayText": "PhonePe"
+                },
+                "utr": "359826905872",
+                "payResponseCode": "SUCCESS",
+                "globalPaymentId": "T2308201256006700948782",
+                "offerAdjustment": 0,
+                "cashbackApplied": false,
+                "instrumentLevelSettlementDetails": {
+                    "UPI_FULFILMENT": {
+                        "totalAmount": 4400.0,
+                        "settlementAmount": 4400.0,
+                        "transactionId": "T2308201256006700948782",
+                        "utr": "AXNPN32336898617"
+                    }
+                },
+                "settlement": {
+                    "settlementList": [
+                        {
+                            "utr": "AXNPN32336898617",
+                            "status": "COMPLETED",
+                            "settlementDate": 1692766871678,
+                            "settlementAmount": 4400.0
+                        }
+                    ],
+                    "status": "SETTLED"
+                },
+                "vasDetails": [
+                ],
+                "refundTransactions": [
+                ],
+                "additionalTransactionDetails": [
+                ],
+                "externalVPATransaction": false
+            },
+            {
+                "unitId": "T2308201208188992471264",
+                "merchantId": "MSE3PJ6T5",
+                "transactionId": "T2308201208188992471264",
+                "transactionType": "FORWARD",
+                "paymentState": "COMPLETED",
+                "amount": 34000,
+                "merchantTransactionId": "TXSCAN2308201208142517282141",
+                "merchantOrderId": "TXSCAN2308201208142517282141",
+                "providerReferenceId": "T2308201208188992471264",
+                "instrumentDetails": [
+                    {
+                        "instrumentType": "ACCOUNT",
+                        "displayName": "Account",
+                        "amount": 34000
+                    }
+                ],
+                "transactionDate": 1692513503231,
+                "merchantDetails": {
+                    "merchantId": "MSE3PJ6T5",
+                    "storeId": "MS1912261329389470000004",
+                    "terminalId": "MST1912261333279670000003",
+                    "storeName": "Tirumala Traders",
+                    "terminalName": "Terminal 2",
+                    "qrCodeId": "Q97338933",
+                    "merchantType": "P2M_LIMITED"
+                },
+                "customerDetails": {
+                    "userId": "U2206260915210005174962",
+                    "phoneNumber": "+xx 81xxxxxx26",
+                    "userName": "******9526"
+                },
+                "paymentApp": {
+                    "paymentApp": "PHONEPE",
+                    "logo": "https://docs.phonepe.com/cdn-cgi/image/width=72,height=72/public/iRaxW3IBCyTN0em5mLoD",
+                    "displayText": "PhonePe"
+                },
+                "utr": "359802521559",
+                "payResponseCode": "SUCCESS",
+                "globalPaymentId": "T2308201208188992471264",
+                "offerAdjustment": 0,
+                "cashbackApplied": false,
+                "instrumentLevelSettlementDetails": {
+                    "UPI_FULFILMENT": {
+                        "totalAmount": 340.0,
+                        "settlementAmount": 340.0,
+                        "transactionId": "T2308201208188992471264",
+                        "utr": "AXNPN32336898617"
+                    }
+                },
+                "settlement": {
+                    "settlementList": [
+                        {
+                            "utr": "AXNPN32336898617",
+                            "status": "COMPLETED",
+                            "settlementDate": 1692766871678,
+                            "settlementAmount": 340.0
+                        }
+                    ],
+                    "status": "SETTLED"
+                },
+                "vasDetails": [
+                ],
+                "refundTransactions": [
+                ],
+                "additionalTransactionDetails": [
+                ],
+                "externalVPATransaction": false
+            },
+            {
+                "unitId": "T2308201143459944348870",
+                "merchantId": "MSE3PJ6T5",
+                "transactionId": "T2308201143459944348870",
+                "transactionType": "FORWARD",
+                "paymentState": "COMPLETED",
+                "amount": 34000,
+                "merchantTransactionId": "TXSCAN2308201143434347843079",
+                "merchantOrderId": "TXSCAN2308201143434347843079",
+                "providerReferenceId": "T2308201143459944348870",
+                "instrumentDetails": [
+                    {
+                        "instrumentType": "ACCOUNT",
+                        "displayName": "Account",
+                        "amount": 34000
+                    }
+                ],
+                "transactionDate": 1692512028968,
+                "merchantDetails": {
+                    "merchantId": "MSE3PJ6T5",
+                    "storeId": "MS1912261329389470000004",
+                    "terminalId": "MST1912261333279670000003",
+                    "storeName": "Tirumala Traders",
+                    "terminalName": "Terminal 2",
+                    "qrCodeId": "Q97338933",
+                    "merchantType": "P2M_LIMITED"
+                },
+                "customerDetails": {
+                    "userId": "U1710301240125075366021",
+                    "phoneNumber": "+xx 89xxxxxx74",
+                    "userName": "Basha"
+                },
+                "paymentApp": {
+                    "paymentApp": "PHONEPE",
+                    "logo": "https://docs.phonepe.com/cdn-cgi/image/width=72,height=72/public/iRaxW3IBCyTN0em5mLoD",
+                    "displayText": "PhonePe"
+                },
+                "utr": "359836748717",
+                "payResponseCode": "SUCCESS",
+                "globalPaymentId": "T2308201143459944348870",
+                "offerAdjustment": 0,
+                "cashbackApplied": false,
+                "instrumentLevelSettlementDetails": {
+                    "UPI_FULFILMENT": {
+                        "totalAmount": 340.0,
+                        "settlementAmount": 340.0,
+                        "transactionId": "T2308201143459944348870",
+                        "utr": "AXNPN32336898617"
+                    }
+                },
+                "settlement": {
+                    "settlementList": [
+                        {
+                            "utr": "AXNPN32336898617",
+                            "status": "COMPLETED",
+                            "settlementDate": 1692766871678,
+                            "settlementAmount": 340.0
+                        }
+                    ],
+                    "status": "SETTLED"
+                },
+                "vasDetails": [
+                ],
+                "refundTransactions": [
+                ],
+                "additionalTransactionDetails": [
+                ],
+                "externalVPATransaction": false
+            },
+            {
+                "unitId": "T2308201118227224051368",
+                "merchantId": "MSE3PJ6T5",
+                "transactionId": "T2308201118227224051368",
+                "transactionType": "FORWARD",
+                "paymentState": "COMPLETED",
+                "amount": 34000,
+                "merchantTransactionId": "TXSCAN2308201118195026904427",
+                "merchantOrderId": "TXSCAN2308201118195026904427",
+                "providerReferenceId": "T2308201118227224051368",
+                "instrumentDetails": [
+                    {
+                        "instrumentType": "ACCOUNT",
+                        "displayName": "Account",
+                        "amount": 34000
+                    }
+                ],
+                "transactionDate": 1692510505884,
+                "merchantDetails": {
+                    "merchantId": "MSE3PJ6T5",
+                    "storeId": "MS1912261329389470000004",
+                    "terminalId": "MST1912261333279670000003",
+                    "storeName": "Tirumala Traders",
+                    "terminalName": "Terminal 2",
+                    "qrCodeId": "Q97338933",
+                    "merchantType": "P2M_LIMITED"
+                },
+                "customerDetails": {
+                    "userId": "U1710301240125075366021",
+                    "phoneNumber": "+xx 89xxxxxx74",
+                    "userName": "Basha"
+                },
+                "paymentApp": {
+                    "paymentApp": "PHONEPE",
+                    "logo": "https://docs.phonepe.com/cdn-cgi/image/width=72,height=72/public/iRaxW3IBCyTN0em5mLoD",
+                    "displayText": "PhonePe"
+                },
+                "utr": "359864143359",
+                "payResponseCode": "SUCCESS",
+                "globalPaymentId": "T2308201118227224051368",
+                "offerAdjustment": 0,
+                "cashbackApplied": false,
+                "instrumentLevelSettlementDetails": {
+                    "UPI_FULFILMENT": {
+                        "totalAmount": 340.0,
+                        "settlementAmount": 340.0,
+                        "transactionId": "T2308201118227224051368",
+                        "utr": "AXNPN32336898617"
+                    }
+                },
+                "settlement": {
+                    "settlementList": [
+                        {
+                            "utr": "AXNPN32336898617",
+                            "status": "COMPLETED",
+                            "settlementDate": 1692766871678,
+                            "settlementAmount": 340.0
+                        }
+                    ],
+                    "status": "SETTLED"
+                },
+                "vasDetails": [
+                ],
+                "refundTransactions": [
+                ],
+                "additionalTransactionDetails": [
+                ],
+                "externalVPATransaction": false
+            },
+            {
+                "unitId": "T2308201104064580374266",
+                "merchantId": "MSE3PJ6T5",
+                "transactionId": "T2308201104064580374266",
+                "transactionType": "FORWARD",
+                "paymentState": "COMPLETED",
+                "amount": 800000,
+                "merchantTransactionId": "TXSCAN2308201103583488226518",
+                "merchantOrderId": "TXSCAN2308201103583488226518",
+                "providerReferenceId": "T2308201104064580374266",
+                "instrumentDetails": [
+                    {
+                        "instrumentType": "ACCOUNT",
+                        "displayName": "Account",
+                        "amount": 800000
+                    }
+                ],
+                "transactionDate": 1692509652713,
+                "merchantDetails": {
+                    "merchantId": "MSE3PJ6T5",
+                    "storeId": "MS1912261329389470000004",
+                    "terminalId": "MST1912261333279670000003",
+                    "storeName": "Tirumala Traders",
+                    "terminalName": "Terminal 2",
+                    "qrCodeId": "Q97338933",
+                    "merchantType": "P2M_LIMITED"
+                },
+                "customerDetails": {
+                    "userId": "U1903131432196576832272",
+                    "phoneNumber": "+xx 81xxxxxx32",
+                    "userName": "sanangularamulu"
+                },
+                "paymentApp": {
+                    "paymentApp": "PHONEPE",
+                    "logo": "https://docs.phonepe.com/cdn-cgi/image/width=72,height=72/public/iRaxW3IBCyTN0em5mLoD",
+                    "displayText": "PhonePe"
+                },
+                "utr": "359885684149",
+                "payResponseCode": "SUCCESS",
+                "globalPaymentId": "T2308201104064580374266",
+                "offerAdjustment": 0,
+                "cashbackApplied": false,
+                "instrumentLevelSettlementDetails": {
+                    "UPI_FULFILMENT": {
+                        "totalAmount": 8000.0,
+                        "settlementAmount": 8000.0,
+                        "transactionId": "T2308201104064580374266",
+                        "utr": "AXNPN32336898617"
+                    }
+                },
+                "settlement": {
+                    "settlementList": [
+                        {
+                            "utr": "AXNPN32336898617",
+                            "status": "COMPLETED",
+                            "settlementDate": 1692766871678,
+                            "settlementAmount": 8000.0
+                        }
+                    ],
+                    "status": "SETTLED"
+                },
+                "vasDetails": [
+                ],
+                "refundTransactions": [
+                ],
+                "additionalTransactionDetails": [
+                ],
+                "externalVPATransaction": false
+            },
+            {
+                "unitId": "T2308201023188228173477",
+                "merchantId": "MSE3PJ6T5",
+                "transactionId": "T2308201023188228173477",
+                "transactionType": "FORWARD",
+                "paymentState": "COMPLETED",
+                "amount": 36500,
+                "merchantTransactionId": "TXSCAN2308201023103808618641",
+                "merchantOrderId": "TXSCAN2308201023103808618641",
+                "providerReferenceId": "T2308201023188228173477",
+                "instrumentDetails": [
+                    {
+                        "instrumentType": "ACCOUNT",
+                        "displayName": "Account",
+                        "amount": 35500
+                    },
+                    {
+                        "instrumentType": "EGV",
+                        "displayName": "EGV",
+                        "amount": 1000
+                    }
+                ],
+                "transactionDate": 1692507202110,
+                "merchantDetails": {
+                    "merchantId": "MSE3PJ6T5",
+                    "storeId": "MS1912261329389470000004",
+                    "terminalId": "MST1912261333279670000003",
+                    "storeName": "Tirumala Traders",
+                    "terminalName": "Terminal 2",
+                    "qrCodeId": "Q97338933",
+                    "merchantType": "P2M_LIMITED"
+                },
+                "customerDetails": {
+                    "userId": "U1808252049544046236562",
+                    "phoneNumber": "+xx 63xxxxxx31",
+                    "userName": "MANCHALA VINAY KUMAR"
+                },
+                "paymentApp": {
+                    "paymentApp": "PHONEPE",
+                    "logo": "https://docs.phonepe.com/cdn-cgi/image/width=72,height=72/public/iRaxW3IBCyTN0em5mLoD",
+                    "displayText": "PhonePe"
+                },
+                "utr": "359853155646",
+                "payResponseCode": "SUCCESS",
+                "globalPaymentId": "T2308201023188228173477",
+                "offerAdjustment": 0,
+                "cashbackApplied": false,
+                "instrumentLevelSettlementDetails": {
+                    "UPI_FULFILMENT": {
+                        "totalAmount": 355.0,
+                        "settlementAmount": 355.0,
+                        "transactionId": "T2308201023188228173477",
+                        "utr": "AXNPN32336898617"
+                    },
+                    "EGV_FULFILMENT": {
+                        "totalAmount": 10.0,
+                        "settlementAmount": 9.9,
+                        "transactionId": "T2308201023188228173477",
+                        "utr": "AXNPN32336898617"
+                    }
+                },
+                "settlement": {
+                    "settlementList": [
+                        {
+                            "utr": "AXNPN32336898617",
+                            "status": "COMPLETED",
+                            "settlementDate": 1692766871678,
+                            "settlementAmount": 9.9
+                        },
+                        {
+                            "utr": "AXNPN32336898617",
+                            "status": "COMPLETED",
+                            "settlementDate": 1692766871678,
+                            "settlementAmount": 355.0
+                        }
+                    ],
+                    "status": "SETTLED"
+                },
+                "vasDetails": [
+                ],
+                "refundTransactions": [
+                ],
+                "additionalTransactionDetails": [
+                ],
+                "externalVPATransaction": false
+            },
+            {
+                "unitId": "T2308191908129395833628",
+                "merchantId": "MSE3PJ6T5",
+                "transactionId": "T2308191908129395833628",
+                "transactionType": "FORWARD",
+                "paymentState": "COMPLETED",
+                "amount": 100000,
+                "merchantTransactionId": "TXSCAN2308191908066994277362",
+                "merchantOrderId": "TXSCAN2308191908066994277362",
+                "providerReferenceId": "T2308191908129395833628",
+                "instrumentDetails": [
+                    {
+                        "instrumentType": "ACCOUNT",
+                        "displayName": "Account",
+                        "amount": 100000
+                    }
+                ],
+                "transactionDate": 1692452301533,
+                "merchantDetails": {
+                    "merchantId": "MSE3PJ6T5",
+                    "storeId": "MS1912261329389470000004",
+                    "terminalId": "MST1912261333279670000003",
+                    "storeName": "Tirumala Traders",
+                    "terminalName": "Terminal 2",
+                    "qrCodeId": "Q97338933",
+                    "merchantType": "P2M_LIMITED"
+                },
+                "customerDetails": {
+                    "userId": "U1904031651309392169171",
+                    "phoneNumber": "+xx 94xxxxxx93",
+                    "userName": "ramana reddy"
+                },
+                "paymentApp": {
+                    "paymentApp": "PHONEPE",
+                    "logo": "https://docs.phonepe.com/cdn-cgi/image/width=72,height=72/public/iRaxW3IBCyTN0em5mLoD",
+                    "displayText": "PhonePe"
+                },
+                "utr": "359796361558",
+                "payResponseCode": "SUCCESS",
+                "globalPaymentId": "T2308191908129395833628",
+                "offerAdjustment": 0,
+                "cashbackApplied": false,
+                "instrumentLevelSettlementDetails": {
+                    "UPI_FULFILMENT": {
+                        "totalAmount": 1000.0,
+                        "settlementAmount": 1000.0,
+                        "transactionId": "T2308191908129395833628",
+                        "utr": "AXNPN32323897642"
+                    }
+                },
+                "settlement": {
+                    "settlementList": [
+                        {
+                            "utr": "AXNPN32323897642",
+                            "status": "COMPLETED",
+                            "settlementDate": 1692680469730,
+                            "settlementAmount": 1000.0
+                        }
+                    ],
+                    "status": "SETTLED"
+                },
+                "vasDetails": [
+                ],
+                "refundTransactions": [
+                ],
+                "additionalTransactionDetails": [
+                ],
+                "externalVPATransaction": false
+            },
+            {
+                "unitId": "T2308191634407050970124",
+                "merchantId": "MSE3PJ6T5",
+                "transactionId": "T2308191634407050970124",
+                "transactionType": "FORWARD",
+                "paymentState": "COMPLETED",
+                "amount": 12500,
+                "merchantTransactionId": "TXSCAN2308191634206219343478",
+                "merchantOrderId": "TXSCAN2308191634206219343478",
+                "providerReferenceId": "T2308191634407050970124",
+                "instrumentDetails": [
+                    {
+                        "instrumentType": "ACCOUNT",
+                        "displayName": "Account",
+                        "amount": 12500
+                    }
+                ],
+                "transactionDate": 1692443084156,
+                "merchantDetails": {
+                    "merchantId": "MSE3PJ6T5",
+                    "storeId": "MS1912261329389470000004",
+                    "terminalId": "MST1912261333279670000003",
+                    "storeName": "Tirumala Traders",
+                    "terminalName": "Terminal 2",
+                    "qrCodeId": "Q97338933",
+                    "merchantType": "P2M_LIMITED"
+                },
+                "customerDetails": {
+                    "userId": "U1906252051169261668515",
+                    "phoneNumber": "+xx 94xxxxxx52",
+                    "userName": "Bandaru Manoj Kumar"
+                },
+                "paymentApp": {
+                    "paymentApp": "PHONEPE",
+                    "logo": "https://docs.phonepe.com/cdn-cgi/image/width=72,height=72/public/iRaxW3IBCyTN0em5mLoD",
+                    "displayText": "PhonePe"
+                },
+                "utr": "323185362603",
+                "payResponseCode": "SUCCESS",
+                "globalPaymentId": "T2308191634407050970124",
+                "offerAdjustment": 0,
+                "cashbackApplied": false,
+                "instrumentLevelSettlementDetails": {
+                    "UPI_FULFILMENT": {
+                        "totalAmount": 125.0,
+                        "settlementAmount": 125.0,
+                        "transactionId": "T2308191634407050970124",
+                        "utr": "AXNPN32323897642"
+                    }
+                },
+                "settlement": {
+                    "settlementList": [
+                        {
+                            "utr": "AXNPN32323897642",
+                            "status": "COMPLETED",
+                            "settlementDate": 1692680469730,
+                            "settlementAmount": 125.0
+                        }
+                    ],
+                    "status": "SETTLED"
+                },
+                "vasDetails": [
+                ],
+                "refundTransactions": [
+                ],
+                "additionalTransactionDetails": [
+                ],
+                "externalVPATransaction": false
+            },
+            {
+                "unitId": "T2308191132485001635683",
+                "merchantId": "MSE3PJ6T5",
+                "transactionId": "T2308191132485001635683",
+                "transactionType": "FORWARD",
+                "paymentState": "COMPLETED",
+                "amount": 19000,
+                "merchantTransactionId": "TXSCAN2308191132455262471098",
+                "merchantOrderId": "TXSCAN2308191132455262471098",
+                "providerReferenceId": "T2308191132485001635683",
+                "instrumentDetails": [
+                    {
+                        "instrumentType": "ACCOUNT",
+                        "displayName": "Account",
+                        "amount": 19000
+                    }
+                ],
+                "transactionDate": 1692424971672,
+                "merchantDetails": {
+                    "merchantId": "MSE3PJ6T5",
+                    "storeId": "MS1912261329389470000004",
+                    "terminalId": "MST1912261333279670000003",
+                    "storeName": "Tirumala Traders",
+                    "terminalName": "Terminal 2",
+                    "qrCodeId": "Q97338933",
+                    "merchantType": "P2M_LIMITED"
+                },
+                "customerDetails": {
+                    "userId": "U1710301240125075366021",
+                    "phoneNumber": "+xx 89xxxxxx74",
+                    "userName": "Basha"
+                },
+                "paymentApp": {
+                    "paymentApp": "PHONEPE",
+                    "logo": "https://docs.phonepe.com/cdn-cgi/image/width=72,height=72/public/iRaxW3IBCyTN0em5mLoD",
+                    "displayText": "PhonePe"
+                },
+                "utr": "359729295880",
+                "payResponseCode": "SUCCESS",
+                "globalPaymentId": "T2308191132485001635683",
+                "offerAdjustment": 0,
+                "cashbackApplied": false,
+                "instrumentLevelSettlementDetails": {
+                    "UPI_FULFILMENT": {
+                        "totalAmount": 190.0,
+                        "settlementAmount": 190.0,
+                        "transactionId": "T2308191132485001635683",
+                        "utr": "AXNPN32323897642"
+                    }
+                },
+                "settlement": {
+                    "settlementList": [
+                        {
+                            "utr": "AXNPN32323897642",
+                            "status": "COMPLETED",
+                            "settlementDate": 1692680469730,
+                            "settlementAmount": 190.0
+                        }
+                    ],
+                    "status": "SETTLED"
+                },
+                "vasDetails": [
+                ],
+                "refundTransactions": [
+                ],
+                "additionalTransactionDetails": [
+                ],
+                "externalVPATransaction": false
+            },
+            {
+                "unitId": "T2308191026287566944942",
+                "merchantId": "MSE3PJ6T5",
+                "transactionId": "T2308191026287566944942",
+                "transactionType": "FORWARD",
+                "paymentState": "COMPLETED",
+                "amount": 105000,
+                "merchantTransactionId": "TXSCAN2308191026192564869938",
+                "merchantOrderId": "TXSCAN2308191026192564869938",
+                "providerReferenceId": "T2308191026287566944942",
+                "instrumentDetails": [
+                    {
+                        "instrumentType": "ACCOUNT",
+                        "displayName": "Account",
+                        "amount": 105000
+                    }
+                ],
+                "transactionDate": 1692420995321,
+                "merchantDetails": {
+                    "merchantId": "MSE3PJ6T5",
+                    "storeId": "MS1912261329389470000004",
+                    "terminalId": "MST1912261333279670000003",
+                    "storeName": "Tirumala Traders",
+                    "terminalName": "Terminal 2",
+                    "qrCodeId": "Q97338933",
+                    "merchantType": "P2M_LIMITED"
+                },
+                "customerDetails": {
+                    "userId": "U1611141701416586706671",
+                    "phoneNumber": "+xx 94xxxxxx21",
+                    "userName": "M Madhava Reddy"
+                },
+                "paymentApp": {
+                    "paymentApp": "PHONEPE",
+                    "logo": "https://docs.phonepe.com/cdn-cgi/image/width=72,height=72/public/iRaxW3IBCyTN0em5mLoD",
+                    "displayText": "PhonePe"
+                },
+                "utr": "359731712389",
+                "payResponseCode": "SUCCESS",
+                "globalPaymentId": "T2308191026287566944942",
+                "offerAdjustment": 0,
+                "cashbackApplied": false,
+                "instrumentLevelSettlementDetails": {
+                    "UPI_FULFILMENT": {
+                        "totalAmount": 1050.0,
+                        "settlementAmount": 1050.0,
+                        "transactionId": "T2308191026287566944942",
+                        "utr": "AXNPN32323897642"
+                    }
+                },
+                "settlement": {
+                    "settlementList": [
+                        {
+                            "utr": "AXNPN32323897642",
+                            "status": "COMPLETED",
+                            "settlementDate": 1692680469730,
+                            "settlementAmount": 1050.0
+                        }
+                    ],
+                    "status": "SETTLED"
+                },
+                "vasDetails": [
+                ],
+                "refundTransactions": [
+                ],
+                "additionalTransactionDetails": [
+                ],
+                "externalVPATransaction": false
+            },
+            {
+                "unitId": "T2308181814231938139800",
+                "merchantId": "MSE3PJ6T5",
+                "transactionId": "T2308181814231938139800",
+                "transactionType": "FORWARD",
+                "paymentState": "COMPLETED",
+                "amount": 18000,
+                "merchantTransactionId": "TXSCAN2308181814153532471533",
+                "merchantOrderId": "TXSCAN2308181814153532471533",
+                "providerReferenceId": "T2308181814231938139800",
+                "instrumentDetails": [
+                    {
+                        "instrumentType": "ACCOUNT",
+                        "displayName": "Account",
+                        "amount": 18000
+                    }
+                ],
+                "transactionDate": 1692362671221,
+                "merchantDetails": {
+                    "merchantId": "MSE3PJ6T5",
+                    "storeId": "MS1912261329389470000004",
+                    "terminalId": "MST1912261333279670000003",
+                    "storeName": "Tirumala Traders",
+                    "terminalName": "Terminal 2",
+                    "qrCodeId": "Q97338933",
+                    "merchantType": "P2M_LIMITED"
+                },
+                "customerDetails": {
+                    "userId": "U2107111627027481948067",
+                    "phoneNumber": "+xx 70xxxxxx25",
+                    "userName": "Chari"
+                },
+                "paymentApp": {
+                    "paymentApp": "PHONEPE",
+                    "logo": "https://docs.phonepe.com/cdn-cgi/image/width=72,height=72/public/iRaxW3IBCyTN0em5mLoD",
+                    "displayText": "PhonePe"
+                },
+                "utr": "323066570814",
+                "payResponseCode": "SUCCESS",
+                "globalPaymentId": "T2308181814231938139800",
+                "offerAdjustment": 0,
+                "cashbackApplied": false,
+                "instrumentLevelSettlementDetails": {
+                    "UPI_FULFILMENT": {
+                        "totalAmount": 180.0,
+                        "settlementAmount": 180.0,
+                        "transactionId": "T2308181814231938139800",
+                        "utr": "AXNPN32310670308"
+                    }
+                },
+                "settlement": {
+                    "settlementList": [
+                        {
+                            "utr": "AXNPN32310670308",
+                            "status": "COMPLETED",
+                            "settlementDate": 1692421333491,
+                            "settlementAmount": 180.0
+                        }
+                    ],
+                    "status": "SETTLED"
+                },
+                "vasDetails": [
+                ],
+                "refundTransactions": [
+                ],
+                "additionalTransactionDetails": [
+                ],
+                "externalVPATransaction": false
+            },
+            {
+                "unitId": "T2308181458023021087407",
+                "merchantId": "MSE3PJ6T5",
+                "transactionId": "T2308181458023021087407",
+                "transactionType": "FORWARD",
+                "paymentState": "COMPLETED",
+                "amount": 28000,
+                "merchantTransactionId": "TXSCAN2308181457567816559560",
+                "merchantOrderId": "TXSCAN2308181457567816559560",
+                "providerReferenceId": "T2308181458023021087407",
+                "instrumentDetails": [
+                    {
+                        "instrumentType": "ACCOUNT",
+                        "displayName": "Account",
+                        "amount": 28000
+                    }
+                ],
+                "transactionDate": 1692350886984,
+                "merchantDetails": {
+                    "merchantId": "MSE3PJ6T5",
+                    "storeId": "MS1912261329389470000004",
+                    "terminalId": "MST1912261333279670000003",
+                    "storeName": "Tirumala Traders",
+                    "terminalName": "Terminal 2",
+                    "qrCodeId": "Q97338933",
+                    "merchantType": "P2M_LIMITED"
+                },
+                "customerDetails": {
+                    "userId": "U2012091018087626634539",
+                    "phoneNumber": "+xx 84xxxxxx39",
+                    "userName": "Chalama Reddy"
+                },
+                "paymentApp": {
+                    "paymentApp": "PHONEPE",
+                    "logo": "https://docs.phonepe.com/cdn-cgi/image/width=72,height=72/public/iRaxW3IBCyTN0em5mLoD",
+                    "displayText": "PhonePe"
+                },
+                "utr": "359604864752",
+                "payResponseCode": "SUCCESS",
+                "globalPaymentId": "T2308181458023021087407",
+                "offerAdjustment": 0,
+                "cashbackApplied": false,
+                "instrumentLevelSettlementDetails": {
+                    "UPI_FULFILMENT": {
+                        "totalAmount": 280.0,
+                        "settlementAmount": 280.0,
+                        "transactionId": "T2308181458023021087407",
+                        "utr": "AXNPN32310670308"
+                    }
+                },
+                "settlement": {
+                    "settlementList": [
+                        {
+                            "utr": "AXNPN32310670308",
+                            "status": "COMPLETED",
+                            "settlementDate": 1692421333491,
+                            "settlementAmount": 280.0
+                        }
+                    ],
+                    "status": "SETTLED"
+                },
+                "vasDetails": [
+                ],
+                "refundTransactions": [
+                ],
+                "additionalTransactionDetails": [
+                ],
+                "externalVPATransaction": false
+            },
+            {
+                "unitId": "T2308181108253129609451",
+                "merchantId": "MSE3PJ6T5",
+                "transactionId": "T2308181108253129609451",
+                "transactionType": "FORWARD",
+                "paymentState": "COMPLETED",
+                "amount": 11000,
+                "merchantTransactionId": "TXSCAN2308181106441119257226",
+                "merchantOrderId": "TXSCAN2308181106441119257226",
+                "providerReferenceId": "T2308181108253129609451",
+                "instrumentDetails": [
+                    {
+                        "instrumentType": "ACCOUNT",
+                        "displayName": "Account",
+                        "amount": 11000
+                    }
+                ],
+                "transactionDate": 1692337110002,
+                "merchantDetails": {
+                    "merchantId": "MSE3PJ6T5",
+                    "storeId": "MS1912261329389470000004",
+                    "terminalId": "MST1912261333279670000003",
+                    "storeName": "Tirumala Traders",
+                    "terminalName": "Terminal 2",
+                    "qrCodeId": "Q97338933",
+                    "merchantType": "P2M_LIMITED"
+                },
+                "customerDetails": {
+                    "userId": "U2103201714385793803085",
+                    "phoneNumber": "+xx 80xxxxxx35",
+                    "userName": "******0435"
+                },
+                "paymentApp": {
+                    "paymentApp": "PHONEPE",
+                    "logo": "https://docs.phonepe.com/cdn-cgi/image/width=72,height=72/public/iRaxW3IBCyTN0em5mLoD",
+                    "displayText": "PhonePe"
+                },
+                "utr": "323090993239",
+                "payResponseCode": "SUCCESS",
+                "globalPaymentId": "T2308181108253129609451",
+                "offerAdjustment": 0,
+                "cashbackApplied": false,
+                "instrumentLevelSettlementDetails": {
+                    "UPI_FULFILMENT": {
+                        "totalAmount": 110.0,
+                        "settlementAmount": 110.0,
+                        "transactionId": "T2308181108253129609451",
+                        "utr": "AXNPN32310670308"
+                    }
+                },
+                "settlement": {
+                    "settlementList": [
+                        {
+                            "utr": "AXNPN32310670308",
+                            "status": "COMPLETED",
+                            "settlementDate": 1692421333491,
+                            "settlementAmount": 110.0
+                        }
+                    ],
+                    "status": "SETTLED"
+                },
+                "vasDetails": [
+                ],
+                "refundTransactions": [
+                ],
+                "additionalTransactionDetails": [
+                ],
+                "externalVPATransaction": false
+            },
+            {
+                "unitId": "T2308180949291663297442",
+                "merchantId": "MSE3PJ6T5",
+                "transactionId": "T2308180949291663297442",
+                "transactionType": "FORWARD",
+                "paymentState": "COMPLETED",
+                "amount": 20000,
+                "merchantTransactionId": "TXSCAN2308180949164195761657",
+                "merchantOrderId": "TXSCAN2308180949164195761657",
+                "providerReferenceId": "T2308180949291663297442",
+                "instrumentDetails": [
+                    {
+                        "instrumentType": "ACCOUNT",
+                        "displayName": "Account",
+                        "amount": 20000
+                    }
+                ],
+                "transactionDate": 1692332372881,
+                "merchantDetails": {
+                    "merchantId": "MSE3PJ6T5",
+                    "storeId": "MS1912261329389470000004",
+                    "terminalId": "MST1912261333279670000003",
+                    "storeName": "Tirumala Traders",
+                    "terminalName": "Terminal 2",
+                    "qrCodeId": "Q97338933",
+                    "merchantType": "P2M_LIMITED"
+                },
+                "customerDetails": {
+                    "userId": "U1811261322299474670120",
+                    "phoneNumber": "+xx 87xxxxxx30",
+                    "userName": "Sk munna"
+                },
+                "paymentApp": {
+                    "paymentApp": "PHONEPE",
+                    "logo": "https://docs.phonepe.com/cdn-cgi/image/width=72,height=72/public/iRaxW3IBCyTN0em5mLoD",
+                    "displayText": "PhonePe"
+                },
+                "utr": "359682680895",
+                "payResponseCode": "SUCCESS",
+                "globalPaymentId": "T2308180949291663297442",
+                "offerAdjustment": 0,
+                "cashbackApplied": false,
+                "instrumentLevelSettlementDetails": {
+                    "UPI_FULFILMENT": {
+                        "totalAmount": 200.0,
+                        "settlementAmount": 200.0,
+                        "transactionId": "T2308180949291663297442",
+                        "utr": "AXNPN32310670308"
+                    }
+                },
+                "settlement": {
+                    "settlementList": [
+                        {
+                            "utr": "AXNPN32310670308",
+                            "status": "COMPLETED",
+                            "settlementDate": 1692421333491,
+                            "settlementAmount": 200.0
+                        }
+                    ],
+                    "status": "SETTLED"
+                },
+                "vasDetails": [
+                ],
+                "refundTransactions": [
+                ],
+                "additionalTransactionDetails": [
+                ],
+                "externalVPATransaction": false
+            },
+            {
+                "unitId": "T2308171910119367855852",
+                "merchantId": "MSE3PJ6T5",
+                "transactionId": "T2308171910119367855852",
+                "transactionType": "FORWARD",
+                "paymentState": "COMPLETED",
+                "amount": 20000,
+                "merchantTransactionId": "TXSCAN2308171910050128198305",
+                "merchantOrderId": "TXSCAN2308171910050128198305",
+                "providerReferenceId": "T2308171910119367855852",
+                "instrumentDetails": [
+                    {
+                        "instrumentType": "ACCOUNT",
+                        "displayName": "Account",
+                        "amount": 20000
+                    }
+                ],
+                "transactionDate": 1692279617143,
+                "merchantDetails": {
+                    "merchantId": "MSE3PJ6T5",
+                    "storeId": "MS1912261329389470000004",
+                    "terminalId": "MST1912261333279670000003",
+                    "storeName": "Tirumala Traders",
+                    "terminalName": "Terminal 2",
+                    "qrCodeId": "Q97338933",
+                    "merchantType": "P2M_LIMITED"
+                },
+                "customerDetails": {
+                    "userId": "U2106171655570240537767",
+                    "phoneNumber": "+xx 91xxxxxx97",
+                    "userName": "N Yohan"
+                },
+                "paymentApp": {
+                    "paymentApp": "PHONEPE",
+                    "logo": "https://docs.phonepe.com/cdn-cgi/image/width=72,height=72/public/iRaxW3IBCyTN0em5mLoD",
+                    "displayText": "PhonePe"
+                },
+                "utr": "359565940085",
+                "payResponseCode": "SUCCESS",
+                "globalPaymentId": "T2308171910119367855852",
+                "offerAdjustment": 0,
+                "cashbackApplied": false,
+                "instrumentLevelSettlementDetails": {
+                    "UPI_FULFILMENT": {
+                        "totalAmount": 200.0,
+                        "settlementAmount": 200.0,
+                        "transactionId": "T2308171910119367855852",
+                        "utr": "AXNPN32307440021"
+                    }
+                },
+                "settlement": {
+                    "settlementList": [
+                        {
+                            "utr": "AXNPN32307440021",
+                            "status": "COMPLETED",
+                            "settlementDate": 1692507670455,
+                            "settlementAmount": 200.0
+                        }
+                    ],
+                    "status": "SETTLED"
+                },
+                "vasDetails": [
+                ],
+                "refundTransactions": [
+                ],
+                "additionalTransactionDetails": [
+                ],
+                "externalVPATransaction": false
+            },
+            {
+                "unitId": "T2308171814223666783853",
+                "merchantId": "MSE3PJ6T5",
+                "transactionId": "T2308171814223666783853",
+                "transactionType": "FORWARD",
+                "paymentState": "COMPLETED",
+                "amount": 27000,
+                "merchantTransactionId": "TXSCAN2308171814114279839119",
+                "merchantOrderId": "TXSCAN2308171814114279839119",
+                "providerReferenceId": "T2308171814223666783853",
+                "instrumentDetails": [
+                    {
+                        "instrumentType": "ACCOUNT",
+                        "displayName": "Account",
+                        "amount": 27000
+                    }
+                ],
+                "transactionDate": 1692276267433,
+                "merchantDetails": {
+                    "merchantId": "MSE3PJ6T5",
+                    "storeId": "MS1912261329389470000004",
+                    "terminalId": "MST1912261333279670000003",
+                    "storeName": "Tirumala Traders",
+                    "terminalName": "Terminal 2",
+                    "qrCodeId": "Q97338933",
+                    "merchantType": "P2M_LIMITED"
+                },
+                "customerDetails": {
+                    "userId": "U2006291416367864163383",
+                    "phoneNumber": "+xx 63xxxxxx42",
+                    "userName": "Suresh Kota"
+                },
+                "paymentApp": {
+                    "paymentApp": "PHONEPE",
+                    "logo": "https://docs.phonepe.com/cdn-cgi/image/width=72,height=72/public/iRaxW3IBCyTN0em5mLoD",
+                    "displayText": "PhonePe"
+                },
+                "utr": "359589804021",
+                "payResponseCode": "SUCCESS",
+                "globalPaymentId": "T2308171814223666783853",
+                "offerAdjustment": 0,
+                "cashbackApplied": false,
+                "instrumentLevelSettlementDetails": {
+                    "UPI_FULFILMENT": {
+                        "totalAmount": 270.0,
+                        "settlementAmount": 270.0,
+                        "transactionId": "T2308171814223666783853",
+                        "utr": "AXNPN32307440021"
+                    }
+                },
+                "settlement": {
+                    "settlementList": [
+                        {
+                            "utr": "AXNPN32307440021",
+                            "status": "COMPLETED",
+                            "settlementDate": 1692507670455,
+                            "settlementAmount": 270.0
+                        }
+                    ],
+                    "status": "SETTLED"
+                },
+                "vasDetails": [
+                ],
+                "refundTransactions": [
+                ],
+                "additionalTransactionDetails": [
+                ],
+                "externalVPATransaction": false
+            },
+            {
+                "unitId": "T2308171730172119897271",
+                "merchantId": "MSE3PJ6T5",
+                "transactionId": "T2308171730172119897271",
+                "transactionType": "FORWARD",
+                "paymentState": "COMPLETED",
+                "amount": 55000,
+                "merchantTransactionId": "TXSCAN2308171729324236154579",
+                "merchantOrderId": "TXSCAN2308171729324236154579",
+                "providerReferenceId": "T2308171730172119897271",
+                "instrumentDetails": [
+                    {
+                        "instrumentType": "ACCOUNT",
+                        "displayName": "Account",
+                        "amount": 55000
+                    }
+                ],
+                "transactionDate": 1692273621439,
+                "merchantDetails": {
+                    "merchantId": "MSE3PJ6T5",
+                    "storeId": "MS1912261329389470000004",
+                    "terminalId": "MST1912261333279670000003",
+                    "storeName": "Tirumala Traders",
+                    "terminalName": "Terminal 2",
+                    "qrCodeId": "Q97338933",
+                    "merchantType": "P2M_LIMITED"
+                },
+                "customerDetails": {
+                    "userId": "U2011291130467477710211",
+                    "phoneNumber": "+xx 63xxxxxx00",
+                    "userName": "******2500"
+                },
+                "paymentApp": {
+                    "paymentApp": "PHONEPE",
+                    "logo": "https://docs.phonepe.com/cdn-cgi/image/width=72,height=72/public/iRaxW3IBCyTN0em5mLoD",
+                    "displayText": "PhonePe"
+                },
+                "utr": "359536083746",
+                "payResponseCode": "SUCCESS",
+                "globalPaymentId": "T2308171730172119897271",
+                "offerAdjustment": 0,
+                "cashbackApplied": false,
+                "instrumentLevelSettlementDetails": {
+                    "UPI_FULFILMENT": {
+                        "totalAmount": 550.0,
+                        "settlementAmount": 550.0,
+                        "transactionId": "T2308171730172119897271",
+                        "utr": "AXNPN32307440021"
+                    }
+                },
+                "settlement": {
+                    "settlementList": [
+                        {
+                            "utr": "AXNPN32307440021",
+                            "status": "COMPLETED",
+                            "settlementDate": 1692507670455,
+                            "settlementAmount": 550.0
+                        }
+                    ],
+                    "status": "SETTLED"
+                },
+                "vasDetails": [
+                ],
+                "refundTransactions": [
+                ],
+                "additionalTransactionDetails": [
+                ],
+                "externalVPATransaction": false
+            },
+            {
+                "unitId": "T2308161702422183254858",
+                "merchantId": "MSE3PJ6T5",
+                "transactionId": "T2308161702422183254858",
+                "transactionType": "FORWARD",
+                "paymentState": "COMPLETED",
+                "amount": 22500,
+                "merchantTransactionId": "TXSCAN2308161702211362827875",
+                "merchantOrderId": "TXSCAN2308161702211362827875",
+                "providerReferenceId": "T2308161702422183254858",
+                "instrumentDetails": [
+                    {
+                        "instrumentType": "ACCOUNT",
+                        "displayName": "Account",
+                        "amount": 22500
+                    }
+                ],
+                "transactionDate": 1692185565847,
+                "merchantDetails": {
+                    "merchantId": "MSE3PJ6T5",
+                    "storeId": "MS1912261329389470000004",
+                    "terminalId": "MST1912261333279670000003",
+                    "storeName": "Tirumala Traders",
+                    "terminalName": "Terminal 2",
+                    "qrCodeId": "Q97338933",
+                    "merchantType": "P2M_LIMITED"
+                },
+                "customerDetails": {
+                    "userId": "U2007082107241979054808",
+                    "phoneNumber": "+xx 94xxxxxx79",
+                    "userName": "Annapureddy balu"
+                },
+                "paymentApp": {
+                    "paymentApp": "PHONEPE",
+                    "logo": "https://docs.phonepe.com/cdn-cgi/image/width=72,height=72/public/iRaxW3IBCyTN0em5mLoD",
+                    "displayText": "PhonePe"
+                },
+                "utr": "322817903211",
+                "payResponseCode": "SUCCESS",
+                "globalPaymentId": "T2308161702422183254858",
+                "offerAdjustment": 0,
+                "cashbackApplied": false,
+                "instrumentLevelSettlementDetails": {
+                    "UPI_FULFILMENT": {
+                        "totalAmount": 225.0,
+                        "settlementAmount": 225.0,
+                        "transactionId": "T2308161702422183254858",
+                        "utr": "AXNPN32294193987"
+                    }
+                },
+                "settlement": {
+                    "settlementList": [
+                        {
+                            "utr": "AXNPN32294193987",
+                            "status": "COMPLETED",
+                            "settlementDate": 1692423837060,
+                            "settlementAmount": 225.0
+                        }
+                    ],
+                    "status": "SETTLED"
+                },
+                "vasDetails": [
+                ],
+                "refundTransactions": [
+                ],
+                "additionalTransactionDetails": [
+                ],
+                "externalVPATransaction": false
+            },
+            {
+                "unitId": "T2308161700474790943204",
+                "merchantId": "MSE3PJ6T5",
+                "transactionId": "T2308161700474790943204",
+                "transactionType": "FORWARD",
+                "paymentState": "COMPLETED",
+                "amount": 15000,
+                "merchantTransactionId": "TXSCAN2308161700435822327315",
+                "merchantOrderId": "TXSCAN2308161700435822327315",
+                "providerReferenceId": "T2308161700474790943204",
+                "instrumentDetails": [
+                    {
+                        "instrumentType": "ACCOUNT",
+                        "displayName": "Account",
+                        "amount": 15000
+                    }
+                ],
+                "transactionDate": 1692185451277,
+                "merchantDetails": {
+                    "merchantId": "MSE3PJ6T5",
+                    "storeId": "MS1912261329389470000004",
+                    "terminalId": "MST1912261333279670000003",
+                    "storeName": "Tirumala Traders",
+                    "terminalName": "Terminal 2",
+                    "qrCodeId": "Q97338933",
+                    "merchantType": "P2M_LIMITED"
+                },
+                "customerDetails": {
+                    "userId": "U1904251335115605336897",
+                    "phoneNumber": "+xx 96xxxxxx89",
+                    "userName": "babu"
+                },
+                "paymentApp": {
+                    "paymentApp": "PHONEPE",
+                    "logo": "https://docs.phonepe.com/cdn-cgi/image/width=72,height=72/public/iRaxW3IBCyTN0em5mLoD",
+                    "displayText": "PhonePe"
+                },
+                "utr": "359476321372",
+                "payResponseCode": "SUCCESS",
+                "globalPaymentId": "T2308161700474790943204",
+                "offerAdjustment": 0,
+                "cashbackApplied": false,
+                "instrumentLevelSettlementDetails": {
+                    "UPI_FULFILMENT": {
+                        "totalAmount": 150.0,
+                        "settlementAmount": 150.0,
+                        "transactionId": "T2308161700474790943204",
+                        "utr": "AXNPN32294193987"
+                    }
+                },
+                "settlement": {
+                    "settlementList": [
+                        {
+                            "utr": "AXNPN32294193987",
+                            "status": "COMPLETED",
+                            "settlementDate": 1692423837060,
+                            "settlementAmount": 150.0
+                        }
+                    ],
+                    "status": "SETTLED"
+                },
+                "vasDetails": [
+                ],
+                "refundTransactions": [
+                ],
+                "additionalTransactionDetails": [
+                ],
+                "externalVPATransaction": false
+            },
+            {
+                "unitId": "T2308161420026382432266",
+                "merchantId": "MSE3PJ6T5",
+                "transactionId": "T2308161420026382432266",
+                "transactionType": "FORWARD",
+                "paymentState": "COMPLETED",
+                "amount": 34000,
+                "merchantTransactionId": "TXSCAN2308161420001340337904",
+                "merchantOrderId": "TXSCAN2308161420001340337904",
+                "providerReferenceId": "T2308161420026382432266",
+                "instrumentDetails": [
+                    {
+                        "instrumentType": "ACCOUNT",
+                        "displayName": "Account",
+                        "amount": 34000
+                    }
+                ],
+                "transactionDate": 1692175805216,
+                "merchantDetails": {
+                    "merchantId": "MSE3PJ6T5",
+                    "storeId": "MS1912261329389470000004",
+                    "terminalId": "MST1912261333279670000003",
+                    "storeName": "Tirumala Traders",
+                    "terminalName": "Terminal 2",
+                    "qrCodeId": "Q97338933",
+                    "merchantType": "P2M_LIMITED"
+                },
+                "customerDetails": {
+                    "userId": "U1710301240125075366021",
+                    "phoneNumber": "+xx 89xxxxxx74",
+                    "userName": "Basha"
+                },
+                "paymentApp": {
+                    "paymentApp": "PHONEPE",
+                    "logo": "https://docs.phonepe.com/cdn-cgi/image/width=72,height=72/public/iRaxW3IBCyTN0em5mLoD",
+                    "displayText": "PhonePe"
+                },
+                "utr": "359418265407",
+                "payResponseCode": "SUCCESS",
+                "globalPaymentId": "T2308161420026382432266",
+                "offerAdjustment": 0,
+                "cashbackApplied": false,
+                "instrumentLevelSettlementDetails": {
+                    "UPI_FULFILMENT": {
+                        "totalAmount": 340.0,
+                        "settlementAmount": 340.0,
+                        "transactionId": "T2308161420026382432266",
+                        "utr": "AXNPN32294193987"
+                    }
+                },
+                "settlement": {
+                    "settlementList": [
+                        {
+                            "utr": "AXNPN32294193987",
+                            "status": "COMPLETED",
+                            "settlementDate": 1692423837060,
+                            "settlementAmount": 340.0
+                        }
+                    ],
+                    "status": "SETTLED"
+                },
+                "vasDetails": [
+                ],
+                "refundTransactions": [
+                ],
+                "additionalTransactionDetails": [
+                ],
+                "externalVPATransaction": false
+            },
+            {
+                "unitId": "T2308161217225107657625",
+                "merchantId": "MSE3PJ6T5",
+                "transactionId": "322829877937",
+                "transactionType": "FORWARD",
+                "paymentState": "COMPLETED",
+                "amount": 6000,
+                "merchantTransactionId": "SBIfee483779999468d93d106f286422280",
+                "providerReferenceId": "T2308161217225107657625",
+                "instrumentDetails": [
+                    {
+                        "instrumentType": "EXTERNAL_VPA",
+                        "displayName": "Account",
+                        "amount": 6000
+                    }
+                ],
+                "transactionDate": 1692168442603,
+                "merchantDetails": {
+                    "merchantId": "MSE3PJ6T5",
+                    "storeId": "MS1912261329389470000004",
+                    "terminalId": "MST1912261333279670000003",
+                    "storeName": "Tirumala Traders",
+                    "terminalName": "Terminal 2",
+                    "qrCodeId": "Q97338933",
+                    "merchantType": "P2M_LIMITED"
+                },
+                "customerDetails": {
+                    "userName": "SHAIK  SHANAVAZ"
+                },
+                "paymentApp": {
+                    "paymentApp": "GPAY",
+                    "logo": "https://docs.phonepe.com/cdn-cgi/image/width=72,height=72/public/iFWzW3IBvMPIpM3J-eXK",
+                    "displayText": "Google Pay"
+                },
+                "utr": "322829877937",
+                "customerReferenceId": "322829877937",
+                "payResponseCode": "SUCCESS",
+                "globalPaymentId": "T2308161217225107657625",
+                "offerAdjustment": 0,
+                "vpa": "skmunnask096@oksbi",
+                "transactionNote": "UPI",
+                "cashbackApplied": false,
+                "instrumentLevelSettlementDetails": {
+                    "UPI_FULFILMENT": {
+                        "totalAmount": 60.0,
+                        "settlementAmount": 60.0,
+                        "transactionId": "T2308161217225107657625",
+                        "utr": "AXNPN32294193987"
+                    }
+                },
+                "settlement": {
+                    "settlementList": [
+                        {
+                            "utr": "AXNPN32294193987",
+                            "status": "COMPLETED",
+                            "settlementDate": 1692423837060,
+                            "settlementAmount": 60.0
+                        }
+                    ],
+                    "status": "SETTLED"
+                },
+                "vasDetails": [
+                ],
+                "refundTransactions": [
+                ],
+                "additionalTransactionDetails": [
+                ],
+                "externalVPATransaction": true
+            },
+            {
+                "unitId": "T2308161123523726716844",
+                "merchantId": "MSE3PJ6T5",
+                "transactionId": "T2308161123523726716844",
+                "transactionType": "FORWARD",
+                "paymentState": "COMPLETED",
+                "amount": 34000,
+                "merchantTransactionId": "TXSCAN2308161123451380337900",
+                "merchantOrderId": "TXSCAN2308161123451380337900",
+                "providerReferenceId": "T2308161123523726716844",
+                "instrumentDetails": [
+                    {
+                        "instrumentType": "ACCOUNT",
+                        "displayName": "Account",
+                        "amount": 34000
+                    }
+                ],
+                "transactionDate": 1692165235719,
+                "merchantDetails": {
+                    "merchantId": "MSE3PJ6T5",
+                    "storeId": "MS1912261329389470000004",
+                    "terminalId": "MST1912261333279670000003",
+                    "storeName": "Tirumala Traders",
+                    "terminalName": "Terminal 2",
+                    "qrCodeId": "Q97338933",
+                    "merchantType": "P2M_LIMITED"
+                },
+                "customerDetails": {
+                    "userId": "U1710301240125075366021",
+                    "phoneNumber": "+xx 89xxxxxx74",
+                    "userName": "Basha"
+                },
+                "paymentApp": {
+                    "paymentApp": "PHONEPE",
+                    "logo": "https://docs.phonepe.com/cdn-cgi/image/width=72,height=72/public/iRaxW3IBCyTN0em5mLoD",
+                    "displayText": "PhonePe"
+                },
+                "utr": "359405510601",
+                "payResponseCode": "SUCCESS",
+                "globalPaymentId": "T2308161123523726716844",
+                "offerAdjustment": 0,
+                "cashbackApplied": false,
+                "instrumentLevelSettlementDetails": {
+                    "UPI_FULFILMENT": {
+                        "totalAmount": 340.0,
+                        "settlementAmount": 340.0,
+                        "transactionId": "T2308161123523726716844",
+                        "utr": "AXNPN32294193987"
+                    }
+                },
+                "settlement": {
+                    "settlementList": [
+                        {
+                            "utr": "AXNPN32294193987",
+                            "status": "COMPLETED",
+                            "settlementDate": 1692423837060,
+                            "settlementAmount": 340.0
+                        }
+                    ],
+                    "status": "SETTLED"
+                },
+                "vasDetails": [
+                ],
+                "refundTransactions": [
+                ],
+                "additionalTransactionDetails": [
+                ],
+                "externalVPATransaction": false
+            },
+            {
+                "unitId": "T2308161055007978111230",
+                "merchantId": "MSE3PJ6T5",
+                "transactionId": "T2308161055007978111230",
+                "transactionType": "FORWARD",
+                "paymentState": "COMPLETED",
+                "amount": 140000,
+                "merchantTransactionId": "TXSCAN2308161054183384295380",
+                "merchantOrderId": "TXSCAN2308161054183384295380",
+                "providerReferenceId": "T2308161055007978111230",
+                "instrumentDetails": [
+                    {
+                        "instrumentType": "ACCOUNT",
+                        "displayName": "Account",
+                        "amount": 140000
+                    }
+                ],
+                "transactionDate": 1692163506082,
+                "merchantDetails": {
+                    "merchantId": "MSE3PJ6T5",
+                    "storeId": "MS1912261329389470000004",
+                    "terminalId": "MST1912261333279670000003",
+                    "storeName": "Tirumala Traders",
+                    "terminalName": "Terminal 2",
+                    "qrCodeId": "Q97338933",
+                    "merchantType": "P2M_LIMITED"
+                },
+                "customerDetails": {
+                    "userId": "U1909271114066005537642",
+                    "phoneNumber": "+xx 63xxxxxx95",
+                    "userName": "palla chennakesavulu"
+                },
+                "paymentApp": {
+                    "paymentApp": "PHONEPE",
+                    "logo": "https://docs.phonepe.com/cdn-cgi/image/width=72,height=72/public/iRaxW3IBCyTN0em5mLoD",
+                    "displayText": "PhonePe"
+                },
+                "utr": "322801705175",
+                "payResponseCode": "SUCCESS",
+                "globalPaymentId": "T2308161055007978111230",
+                "offerAdjustment": 0,
+                "cashbackApplied": false,
+                "instrumentLevelSettlementDetails": {
+                    "UPI_FULFILMENT": {
+                        "totalAmount": 1400.0,
+                        "settlementAmount": 1400.0,
+                        "transactionId": "T2308161055007978111230",
+                        "utr": "AXNPN32294193987"
+                    }
+                },
+                "settlement": {
+                    "settlementList": [
+                        {
+                            "utr": "AXNPN32294193987",
+                            "status": "COMPLETED",
+                            "settlementDate": 1692423837060,
+                            "settlementAmount": 1400.0
+                        }
+                    ],
+                    "status": "SETTLED"
+                },
+                "vasDetails": [
+                ],
+                "refundTransactions": [
+                ],
+                "additionalTransactionDetails": [
+                ],
+                "externalVPATransaction": false
+            },
+            {
+                "unitId": "T2308160944355343894310",
+                "merchantId": "MSE3PJ6T5",
+                "transactionId": "T2308160944355343894310",
+                "transactionType": "FORWARD",
+                "paymentState": "COMPLETED",
+                "amount": 4000,
+                "merchantTransactionId": "TXSCAN2308160944311635722405",
+                "merchantOrderId": "TXSCAN2308160944311635722405",
+                "providerReferenceId": "T2308160944355343894310",
+                "instrumentDetails": [
+                    {
+                        "instrumentType": "ACCOUNT",
+                        "displayName": "Account",
+                        "amount": 4000
+                    }
+                ],
+                "transactionDate": 1692159279489,
+                "merchantDetails": {
+                    "merchantId": "MSE3PJ6T5",
+                    "storeId": "MS1912261329389470000004",
+                    "terminalId": "MST1912261333279670000003",
+                    "storeName": "Tirumala Traders",
+                    "terminalName": "Terminal 2",
+                    "qrCodeId": "Q97338933",
+                    "merchantType": "P2M_LIMITED"
+                },
+                "customerDetails": {
+                    "userId": "U1812132008049787111775",
+                    "phoneNumber": "+xx 70xxxxxx52",
+                    "userName": "Ex110"
+                },
+                "paymentApp": {
+                    "paymentApp": "PHONEPE",
+                    "logo": "https://docs.phonepe.com/cdn-cgi/image/width=72,height=72/public/iRaxW3IBCyTN0em5mLoD",
+                    "displayText": "PhonePe"
+                },
+                "utr": "322886194447",
+                "payResponseCode": "SUCCESS",
+                "globalPaymentId": "T2308160944355343894310",
+                "offerAdjustment": 0,
+                "cashbackApplied": false,
+                "instrumentLevelSettlementDetails": {
+                    "UPI_FULFILMENT": {
+                        "totalAmount": 40.0,
+                        "settlementAmount": 40.0,
+                        "transactionId": "T2308160944355343894310",
+                        "utr": "AXNPN32294193987"
+                    }
+                },
+                "settlement": {
+                    "settlementList": [
+                        {
+                            "utr": "AXNPN32294193987",
+                            "status": "COMPLETED",
+                            "settlementDate": 1692423837060,
+                            "settlementAmount": 40.0
+                        }
+                    ],
+                    "status": "SETTLED"
+                },
+                "vasDetails": [
+                ],
+                "refundTransactions": [
+                ],
+                "additionalTransactionDetails": [
+                ],
+                "externalVPATransaction": false
+            },
+            {
+                "unitId": "T2308160641414059552917",
+                "merchantId": "MSE3PJ6T5",
+                "transactionId": "322820217736",
+                "transactionType": "FORWARD",
+                "paymentState": "COMPLETED",
+                "amount": 220000,
+                "merchantTransactionId": "SBIb60497626fc14296a0e8a42a6f5dc473",
+                "providerReferenceId": "T2308160641414059552917",
+                "instrumentDetails": [
+                    {
+                        "instrumentType": "EXTERNAL_VPA",
+                        "displayName": "Account",
+                        "amount": 220000
+                    }
+                ],
+                "transactionDate": 1692148301505,
+                "merchantDetails": {
+                    "merchantId": "MSE3PJ6T5",
+                    "storeId": "MS1912261329389470000004",
+                    "terminalId": "MST1912261333279670000003",
+                    "storeName": "Tirumala Traders",
+                    "terminalName": "Terminal 2",
+                    "qrCodeId": "Q97338933",
+                    "merchantType": "P2M_LIMITED"
+                },
+                "customerDetails": {
+                    "userName": "GUDIPATI VIDYASAGAR"
+                },
+                "paymentApp": {
+                    "paymentApp": "GPAY",
+                    "logo": "https://docs.phonepe.com/cdn-cgi/image/width=72,height=72/public/iFWzW3IBvMPIpM3J-eXK",
+                    "displayText": "Google Pay"
+                },
+                "utr": "322820217736",
+                "customerReferenceId": "322820217736",
+                "payResponseCode": "SUCCESS",
+                "globalPaymentId": "T2308160641414059552917",
+                "offerAdjustment": 0,
+                "vpa": "sagargudipati56@oksbi",
+                "transactionNote": "UPI",
+                "cashbackApplied": false,
+                "instrumentLevelSettlementDetails": {
+                    "UPI_FULFILMENT": {
+                        "totalAmount": 2200.0,
+                        "settlementAmount": 2200.0,
+                        "transactionId": "T2308160641414059552917",
+                        "utr": "AXNPN32294193987"
+                    }
+                },
+                "settlement": {
+                    "settlementList": [
+                        {
+                            "utr": "AXNPN32294193987",
+                            "status": "COMPLETED",
+                            "settlementDate": 1692423837060,
+                            "settlementAmount": 2200.0
+                        }
+                    ],
+                    "status": "SETTLED"
+                },
+                "vasDetails": [
+                ],
+                "refundTransactions": [
+                ],
+                "additionalTransactionDetails": [
+                ],
+                "externalVPATransaction": true
+            },
+            {
+                "unitId": "T2308151310121592319991",
+                "merchantId": "MSE3PJ6T5",
+                "transactionId": "359311545080",
+                "transactionType": "FORWARD",
+                "paymentState": "COMPLETED",
+                "amount": 172000,
+                "merchantTransactionId": "PTMafc7c47acfe742d1bf9e787861371c1f",
+                "providerReferenceId": "T2308151310121592319991",
+                "instrumentDetails": [
+                    {
+                        "instrumentType": "EXTERNAL_VPA",
+                        "displayName": "Account",
+                        "amount": 172000
+                    }
+                ],
+                "transactionDate": 1692085212249,
+                "merchantDetails": {
+                    "merchantId": "MSE3PJ6T5",
+                    "storeId": "MS1912261329389470000004",
+                    "terminalId": "MST1912261333279670000003",
+                    "storeName": "Tirumala Traders",
+                    "terminalName": "Terminal 2",
+                    "qrCodeId": "Q97338933",
+                    "merchantType": "P2M_LIMITED"
+                },
+                "customerDetails": {
+                    "userName": "BUJJAMMA"
+                },
+                "paymentApp": {
+                    "paymentApp": "PAYTM",
+                    "logo": "https://docs.phonepe.com/cdn-cgi/image/width=72,height=72/public/mbFWb3wB-p02LmDCG39o",
+                    "displayText": "Paytm"
+                },
+                "utr": "359311545080",
+                "customerReferenceId": "359311545080",
+                "payResponseCode": "SUCCESS",
+                "globalPaymentId": "T2308151310121592319991",
+                "offerAdjustment": 0,
+                "vpa": "7702459278@paytm",
+                "transactionNote": "NA",
+                "cashbackApplied": false,
+                "instrumentLevelSettlementDetails": {
+                    "UPI_FULFILMENT": {
+                        "totalAmount": 1720.0,
+                        "settlementAmount": 1720.0,
+                        "transactionId": "T2308151310121592319991",
+                        "utr": "AXNPN32280969468"
+                    }
+                },
+                "settlement": {
+                    "settlementList": [
+                        {
+                            "utr": "AXNPN32280969468",
+                            "status": "COMPLETED",
+                            "settlementDate": 1692162269585,
+                            "settlementAmount": 1720.0
+                        }
+                    ],
+                    "status": "SETTLED"
+                },
+                "vasDetails": [
+                ],
+                "refundTransactions": [
+                ],
+                "additionalTransactionDetails": [
+                ],
+                "externalVPATransaction": true
+            },
+            {
+                "unitId": "T2308151040490959492847",
+                "merchantId": "MSE3PJ6T5",
+                "transactionId": "T2308151040490959492847",
+                "transactionType": "FORWARD",
+                "paymentState": "COMPLETED",
+                "amount": 33000,
+                "merchantTransactionId": "TXSCAN2308151040433351129355",
+                "merchantOrderId": "TXSCAN2308151040433351129355",
+                "providerReferenceId": "T2308151040490959492847",
+                "instrumentDetails": [
+                    {
+                        "instrumentType": "ACCOUNT",
+                        "displayName": "Account",
+                        "amount": 33000
+                    }
+                ],
+                "transactionDate": 1692076251861,
+                "merchantDetails": {
+                    "merchantId": "MSE3PJ6T5",
+                    "storeId": "MS1912261329389470000004",
+                    "terminalId": "MST1912261333279670000003",
+                    "storeName": "Tirumala Traders",
+                    "terminalName": "Terminal 2",
+                    "qrCodeId": "Q97338933",
+                    "merchantType": "P2M_LIMITED"
+                },
+                "customerDetails": {
+                    "userId": "U1710301240125075366021",
+                    "phoneNumber": "+xx 89xxxxxx74",
+                    "userName": "Basha"
+                },
+                "paymentApp": {
+                    "paymentApp": "PHONEPE",
+                    "logo": "https://docs.phonepe.com/cdn-cgi/image/width=72,height=72/public/iRaxW3IBCyTN0em5mLoD",
+                    "displayText": "PhonePe"
+                },
+                "utr": "359360457796",
+                "payResponseCode": "SUCCESS",
+                "globalPaymentId": "T2308151040490959492847",
+                "offerAdjustment": 0,
+                "cashbackApplied": false,
+                "instrumentLevelSettlementDetails": {
+                    "UPI_FULFILMENT": {
+                        "totalAmount": 330.0,
+                        "settlementAmount": 330.0,
+                        "transactionId": "T2308151040490959492847",
+                        "utr": "AXNPN32280969468"
+                    }
+                },
+                "settlement": {
+                    "settlementList": [
+                        {
+                            "utr": "AXNPN32280969468",
+                            "status": "COMPLETED",
+                            "settlementDate": 1692162269585,
+                            "settlementAmount": 330.0
+                        }
+                    ],
+                    "status": "SETTLED"
+                },
+                "vasDetails": [
+                ],
+                "refundTransactions": [
+                ],
+                "additionalTransactionDetails": [
+                ],
+                "externalVPATransaction": false
+            },
+            {
+                "unitId": "T2308141925228615480486",
+                "merchantId": "MSE3PJ6T5",
+                "transactionId": "T2308141925228615480486",
+                "transactionType": "FORWARD",
+                "paymentState": "COMPLETED",
+                "amount": 6000,
+                "merchantTransactionId": "TXSCAN2308141925154081016541",
+                "merchantOrderId": "TXSCAN2308141925154081016541",
+                "providerReferenceId": "T2308141925228615480486",
+                "instrumentDetails": [
+                    {
+                        "instrumentType": "ACCOUNT",
+                        "displayName": "Account",
+                        "amount": 6000
+                    }
+                ],
+                "transactionDate": 1692021325531,
+                "merchantDetails": {
+                    "merchantId": "MSE3PJ6T5",
+                    "storeId": "MS1912261329389470000004",
+                    "terminalId": "MST1912261333279670000003",
+                    "storeName": "Tirumala Traders",
+                    "terminalName": "Terminal 2",
+                    "qrCodeId": "Q97338933",
+                    "merchantType": "P2M_LIMITED"
+                },
+                "customerDetails": {
+                    "userId": "U2108141944275039122149",
+                    "phoneNumber": "+xx 63xxxxxx77",
+                    "userName": "******2377"
+                },
+                "paymentApp": {
+                    "paymentApp": "PHONEPE",
+                    "logo": "https://docs.phonepe.com/cdn-cgi/image/width=72,height=72/public/iRaxW3IBCyTN0em5mLoD",
+                    "displayText": "PhonePe"
+                },
+                "utr": "322633326319",
+                "payResponseCode": "SUCCESS",
+                "globalPaymentId": "T2308141925228615480486",
+                "offerAdjustment": 0,
+                "cashbackApplied": false,
+                "instrumentLevelSettlementDetails": {
+                    "UPI_FULFILMENT": {
+                        "totalAmount": 60.0,
+                        "settlementAmount": 60.0,
+                        "transactionId": "T2308141925228615480486",
+                        "utr": "AXNPN32277900032"
+                    }
+                },
+                "settlement": {
+                    "settlementList": [
+                        {
+                            "utr": "AXNPN32277900032",
+                            "status": "COMPLETED",
+                            "settlementDate": 1692074268058,
+                            "settlementAmount": 60.0
+                        }
+                    ],
+                    "status": "SETTLED"
+                },
+                "vasDetails": [
+                ],
+                "refundTransactions": [
+                ],
+                "additionalTransactionDetails": [
+                ],
+                "externalVPATransaction": false
+            },
+            {
+                "unitId": "T2308141737446747657355",
+                "merchantId": "MSE3PJ6T5",
+                "transactionId": "T2308141737446747657355",
+                "transactionType": "FORWARD",
+                "paymentState": "COMPLETED",
+                "amount": 19000,
+                "merchantTransactionId": "TXSCAN2308141737147966826250",
+                "merchantOrderId": "TXSCAN2308141737147966826250",
+                "providerReferenceId": "T2308141737446747657355",
+                "instrumentDetails": [
+                    {
+                        "instrumentType": "ACCOUNT",
+                        "displayName": "Account",
+                        "amount": 19000
+                    }
+                ],
+                "transactionDate": 1692014866169,
+                "merchantDetails": {
+                    "merchantId": "MSE3PJ6T5",
+                    "storeId": "MS1912261329389470000004",
+                    "terminalId": "MST1912261333279670000003",
+                    "qrCodeId": "Q97338933",
+                    "merchantType": "P2M_LIMITED"
+                },
+                "customerDetails": {
+                    "userId": "U1805241744495234549286",
+                    "phoneNumber": "+xx 70xxxxxx93",
+                    "userName": "BONAMUKKALA CHAITANYA"
+                },
+                "paymentApp": {
+                    "paymentApp": "PHONEPE",
+                    "logo": "https://docs.phonepe.com/cdn-cgi/image/width=72,height=72/public/iRaxW3IBCyTN0em5mLoD",
+                    "displayText": "PhonePe"
+                },
+                "utr": "359234830073",
+                "payResponseCode": "SUCCESS",
+                "globalPaymentId": "T2308141737446747657355",
+                "offerAdjustment": 0,
+                "transactionNote": "Gear wire",
+                "cashbackApplied": false,
+                "instrumentLevelSettlementDetails": {
+                    "UPI_FULFILMENT": {
+                        "totalAmount": 190.0,
+                        "settlementAmount": 190.0,
+                        "transactionId": "T2308141737446747657355",
+                        "utr": "AXNPN32277900032"
+                    }
+                },
+                "settlement": {
+                    "settlementList": [
+                        {
+                            "utr": "AXNPN32277900032",
+                            "status": "COMPLETED",
+                            "settlementDate": 1692074268058,
+                            "settlementAmount": 190.0
+                        }
+                    ],
+                    "status": "SETTLED"
+                },
+                "vasDetails": [
+                ],
+                "refundTransactions": [
+                ],
+                "additionalTransactionDetails": [
+                ],
+                "externalVPATransaction": false
+            },
+            {
+                "unitId": "T2308141713130533899132",
+                "merchantId": "MSE3PJ6T5",
+                "transactionId": "359227077028",
+                "transactionType": "FORWARD",
+                "paymentState": "COMPLETED",
+                "amount": 64000,
+                "merchantTransactionId": "PTM1f48431a48a742669f66c499e59de593",
+                "providerReferenceId": "T2308141713130533899132",
+                "instrumentDetails": [
+                    {
+                        "instrumentType": "EXTERNAL_VPA",
+                        "displayName": "Account",
+                        "amount": 64000
+                    }
+                ],
+                "transactionDate": 1692013393142,
+                "merchantDetails": {
+                    "merchantId": "MSE3PJ6T5",
+                    "storeId": "MS1912261329389470000004",
+                    "terminalId": "MST1912261333279670000003",
+                    "storeName": "Tirumala Traders",
+                    "terminalName": "Terminal 2",
+                    "qrCodeId": "Q97338933",
+                    "merchantType": "P2M_LIMITED"
+                },
+                "customerDetails": {
+                    "userName": "Karna  Venkateswarlu"
+                },
+                "paymentApp": {
+                    "paymentApp": "PAYTM",
+                    "logo": "https://docs.phonepe.com/cdn-cgi/image/width=72,height=72/public/mbFWb3wB-p02LmDCG39o",
+                    "displayText": "Paytm"
+                },
+                "utr": "359227077028",
+                "customerReferenceId": "359227077028",
+                "payResponseCode": "SUCCESS",
+                "globalPaymentId": "T2308141713130533899132",
+                "offerAdjustment": 0,
+                "vpa": "8978724145@paytm",
+                "transactionNote": "NA",
+                "cashbackApplied": false,
+                "instrumentLevelSettlementDetails": {
+                    "UPI_FULFILMENT": {
+                        "totalAmount": 640.0,
+                        "settlementAmount": 640.0,
+                        "transactionId": "T2308141713130533899132",
+                        "utr": "AXNPN32277900032"
+                    }
+                },
+                "settlement": {
+                    "settlementList": [
+                        {
+                            "utr": "AXNPN32277900032",
+                            "status": "COMPLETED",
+                            "settlementDate": 1692074268058,
+                            "settlementAmount": 640.0
+                        }
+                    ],
+                    "status": "SETTLED"
+                },
+                "vasDetails": [
+                ],
+                "refundTransactions": [
+                ],
+                "additionalTransactionDetails": [
+                ],
+                "externalVPATransaction": true
+            },
+            {
+                "unitId": "T2308141512053793287400",
+                "merchantId": "MSE3PJ6T5",
+                "transactionId": "T2308141512053793287400",
+                "transactionType": "FORWARD",
+                "paymentState": "COMPLETED",
+                "amount": 34000,
+                "merchantTransactionId": "TXSCAN2308141512029432432534",
+                "merchantOrderId": "TXSCAN2308141512029432432534",
+                "providerReferenceId": "T2308141512053793287400",
+                "instrumentDetails": [
+                    {
+                        "instrumentType": "ACCOUNT",
+                        "displayName": "Account",
+                        "amount": 34000
+                    }
+                ],
+                "transactionDate": 1692006128790,
+                "merchantDetails": {
+                    "merchantId": "MSE3PJ6T5",
+                    "storeId": "MS1912261329389470000004",
+                    "terminalId": "MST1912261333279670000003",
+                    "storeName": "Tirumala Traders",
+                    "terminalName": "Terminal 2",
+                    "qrCodeId": "Q97338933",
+                    "merchantType": "P2M_LIMITED"
+                },
+                "customerDetails": {
+                    "userId": "U1710301240125075366021",
+                    "phoneNumber": "+xx 89xxxxxx74",
+                    "userName": "Basha"
+                },
+                "paymentApp": {
+                    "paymentApp": "PHONEPE",
+                    "logo": "https://docs.phonepe.com/cdn-cgi/image/width=72,height=72/public/iRaxW3IBCyTN0em5mLoD",
+                    "displayText": "PhonePe"
+                },
+                "utr": "359202754096",
+                "payResponseCode": "SUCCESS",
+                "globalPaymentId": "T2308141512053793287400",
+                "offerAdjustment": 0,
+                "cashbackApplied": false,
+                "instrumentLevelSettlementDetails": {
+                    "UPI_FULFILMENT": {
+                        "totalAmount": 340.0,
+                        "settlementAmount": 340.0,
+                        "transactionId": "T2308141512053793287400",
+                        "utr": "AXNPN32277900032"
+                    }
+                },
+                "settlement": {
+                    "settlementList": [
+                        {
+                            "utr": "AXNPN32277900032",
+                            "status": "COMPLETED",
+                            "settlementDate": 1692074268058,
+                            "settlementAmount": 340.0
+                        }
+                    ],
+                    "status": "SETTLED"
+                },
+                "vasDetails": [
+                ],
+                "refundTransactions": [
+                ],
+                "additionalTransactionDetails": [
+                ],
+                "externalVPATransaction": false
+            },
+            {
+                "unitId": "T2308141331326662833580",
+                "merchantId": "MSE3PJ6T5",
+                "transactionId": "T2308141331326662833580",
+                "transactionType": "FORWARD",
+                "paymentState": "COMPLETED",
+                "amount": 60000,
+                "merchantTransactionId": "TXSCAN2308141331225457657142",
+                "merchantOrderId": "TXSCAN2308141331225457657142",
+                "providerReferenceId": "T2308141331326662833580",
+                "instrumentDetails": [
+                    {
+                        "instrumentType": "ACCOUNT",
+                        "displayName": "Account",
+                        "amount": 60000
+                    }
+                ],
+                "transactionDate": 1692000108180,
+                "merchantDetails": {
+                    "merchantId": "MSE3PJ6T5",
+                    "storeId": "MS1912261329389470000004",
+                    "terminalId": "MST1912261333279670000003",
+                    "storeName": "Tirumala Traders",
+                    "terminalName": "Terminal 2",
+                    "qrCodeId": "Q97338933",
+                    "merchantType": "P2M_LIMITED"
+                },
+                "customerDetails": {
+                    "userId": "U2001130951378470068508",
+                    "phoneNumber": "+xx 77xxxxxx39",
+                    "userName": "lekkalaRamhon"
+                },
+                "paymentApp": {
+                    "paymentApp": "PHONEPE",
+                    "logo": "https://docs.phonepe.com/cdn-cgi/image/width=72,height=72/public/iRaxW3IBCyTN0em5mLoD",
+                    "displayText": "PhonePe"
+                },
+                "utr": "359269341214",
+                "payResponseCode": "SUCCESS",
+                "globalPaymentId": "T2308141331326662833580",
+                "offerAdjustment": 0,
+                "cashbackApplied": false,
+                "instrumentLevelSettlementDetails": {
+                    "UPI_FULFILMENT": {
+                        "totalAmount": 600.0,
+                        "settlementAmount": 600.0,
+                        "transactionId": "T2308141331326662833580",
+                        "utr": "AXNPN32277900032"
+                    }
+                },
+                "settlement": {
+                    "settlementList": [
+                        {
+                            "utr": "AXNPN32277900032",
+                            "status": "COMPLETED",
+                            "settlementDate": 1692074268058,
+                            "settlementAmount": 600.0
+                        }
+                    ],
+                    "status": "SETTLED"
+                },
+                "vasDetails": [
+                ],
+                "refundTransactions": [
+                ],
+                "additionalTransactionDetails": [
+                ],
+                "externalVPATransaction": false
+            },
+            {
+                "unitId": "T2308141135044351683369",
+                "merchantId": "MSE3PJ6T5",
+                "transactionId": "T2308141135044351683369",
+                "transactionType": "FORWARD",
+                "paymentState": "COMPLETED",
+                "amount": 3000,
+                "merchantTransactionId": "TXSCAN2308141135009045722564",
+                "merchantOrderId": "TXSCAN2308141135009045722564",
+                "providerReferenceId": "T2308141135044351683369",
+                "instrumentDetails": [
+                    {
+                        "instrumentType": "ACCOUNT",
+                        "displayName": "Account",
+                        "amount": 3000
+                    }
+                ],
+                "transactionDate": 1691993107483,
+                "merchantDetails": {
+                    "merchantId": "MSE3PJ6T5",
+                    "storeId": "MS1912261329389470000004",
+                    "terminalId": "MST1912261333279670000003",
+                    "storeName": "Tirumala Traders",
+                    "terminalName": "Terminal 2",
+                    "qrCodeId": "Q97338933",
+                    "merchantType": "P2M_LIMITED"
+                },
+                "customerDetails": {
+                    "userId": "U1712011427444482406928",
+                    "phoneNumber": "+xx 84xxxxxx46",
+                    "userName": "chebrolu prakash1"
+                },
+                "paymentApp": {
+                    "paymentApp": "PHONEPE",
+                    "logo": "https://docs.phonepe.com/cdn-cgi/image/width=72,height=72/public/iRaxW3IBCyTN0em5mLoD",
+                    "displayText": "PhonePe"
+                },
+                "utr": "359289265076",
+                "payResponseCode": "SUCCESS",
+                "globalPaymentId": "T2308141135044351683369",
+                "offerAdjustment": 0,
+                "cashbackApplied": false,
+                "instrumentLevelSettlementDetails": {
+                    "UPI_FULFILMENT": {
+                        "totalAmount": 30.0,
+                        "settlementAmount": 30.0,
+                        "transactionId": "T2308141135044351683369",
+                        "utr": "AXNPN32277900032"
+                    }
+                },
+                "settlement": {
+                    "settlementList": [
+                        {
+                            "utr": "AXNPN32277900032",
+                            "status": "COMPLETED",
+                            "settlementDate": 1692074268058,
+                            "settlementAmount": 30.0
+                        }
+                    ],
+                    "status": "SETTLED"
+                },
+                "vasDetails": [
+                ],
+                "refundTransactions": [
+                ],
+                "additionalTransactionDetails": [
+                ],
+                "externalVPATransaction": false
+            },
+            {
+                "unitId": "T2308141046042552319394",
+                "merchantId": "MSE3PJ6T5",
+                "transactionId": "T2308141046042552319394",
+                "transactionType": "FORWARD",
+                "paymentState": "COMPLETED",
+                "amount": 35000,
+                "merchantTransactionId": "TXSCAN2308141046001824628859",
+                "merchantOrderId": "TXSCAN2308141046001824628859",
+                "providerReferenceId": "T2308141046042552319394",
+                "instrumentDetails": [
+                    {
+                        "instrumentType": "ACCOUNT",
+                        "displayName": "Account",
+                        "amount": 35000
+                    }
+                ],
+                "transactionDate": 1691990167179,
+                "merchantDetails": {
+                    "merchantId": "MSE3PJ6T5",
+                    "storeId": "MS1912261329389470000004",
+                    "terminalId": "MST1912261333279670000003",
+                    "storeName": "Tirumala Traders",
+                    "terminalName": "Terminal 2",
+                    "qrCodeId": "Q97338933",
+                    "merchantType": "P2M_LIMITED"
+                },
+                "customerDetails": {
+                    "userId": "U2201201256431626779045",
+                    "phoneNumber": "+xx 99xxxxxx57",
+                    "userName": "L Vani"
+                },
+                "paymentApp": {
+                    "paymentApp": "PHONEPE",
+                    "logo": "https://docs.phonepe.com/cdn-cgi/image/width=72,height=72/public/iRaxW3IBCyTN0em5mLoD",
+                    "displayText": "PhonePe"
+                },
+                "utr": "322630317625",
+                "payResponseCode": "SUCCESS",
+                "globalPaymentId": "T2308141046042552319394",
+                "offerAdjustment": 0,
+                "cashbackApplied": false,
+                "instrumentLevelSettlementDetails": {
+                    "UPI_FULFILMENT": {
+                        "totalAmount": 350.0,
+                        "settlementAmount": 350.0,
+                        "transactionId": "T2308141046042552319394",
+                        "utr": "AXNPN32277900032"
+                    }
+                },
+                "settlement": {
+                    "settlementList": [
+                        {
+                            "utr": "AXNPN32277900032",
+                            "status": "COMPLETED",
+                            "settlementDate": 1692074268058,
+                            "settlementAmount": 350.0
+                        }
+                    ],
+                    "status": "SETTLED"
+                },
+                "vasDetails": [
+                ],
+                "refundTransactions": [
+                ],
+                "additionalTransactionDetails": [
+                ],
+                "externalVPATransaction": false
+            },
+            {
+                "unitId": "T2308140719036275013697",
+                "merchantId": "MSE3PJ6T5",
+                "transactionId": "T2308140719036275013697",
+                "transactionType": "FORWARD",
+                "paymentState": "COMPLETED",
+                "amount": 105000,
+                "merchantTransactionId": "TXSCAN2308140718445175625270",
+                "merchantOrderId": "TXSCAN2308140718445175625270",
+                "providerReferenceId": "T2308140719036275013697",
+                "instrumentDetails": [
+                    {
+                        "instrumentType": "ACCOUNT",
+                        "displayName": "Account",
+                        "amount": 105000
+                    }
+                ],
+                "transactionDate": 1691977746472,
+                "merchantDetails": {
+                    "merchantId": "MSE3PJ6T5",
+                    "storeId": "MS1912261329389470000004",
+                    "terminalId": "MST1912261333279670000003",
+                    "storeName": "Tirumala Traders",
+                    "terminalName": "Terminal 2",
+                    "qrCodeId": "Q97338933",
+                    "merchantType": "P2M_LIMITED"
+                },
+                "customerDetails": {
+                    "userId": "U2108150808524207108817",
+                    "phoneNumber": "+xx 70xxxxxx89",
+                    "userName": "******2889"
+                },
+                "paymentApp": {
+                    "paymentApp": "PHONEPE",
+                    "logo": "https://docs.phonepe.com/cdn-cgi/image/width=72,height=72/public/iRaxW3IBCyTN0em5mLoD",
+                    "displayText": "PhonePe"
+                },
+                "utr": "322651217225",
+                "payResponseCode": "SUCCESS",
+                "globalPaymentId": "T2308140719036275013697",
+                "offerAdjustment": 0,
+                "cashbackApplied": false,
+                "instrumentLevelSettlementDetails": {
+                    "UPI_FULFILMENT": {
+                        "totalAmount": 1050.0,
+                        "settlementAmount": 1050.0,
+                        "transactionId": "T2308140719036275013697",
+                        "utr": "AXNPN32277900032"
+                    }
+                },
+                "settlement": {
+                    "settlementList": [
+                        {
+                            "utr": "AXNPN32277900032",
+                            "status": "COMPLETED",
+                            "settlementDate": 1692074268058,
+                            "settlementAmount": 1050.0
+                        }
+                    ],
+                    "status": "SETTLED"
+                },
+                "vasDetails": [
+                ],
+                "refundTransactions": [
+                ],
+                "additionalTransactionDetails": [
+                ],
+                "externalVPATransaction": false
+            }
+        ],
+        "totalResults": 186,
+        "totalAmount": 11193500
+    }
+}
