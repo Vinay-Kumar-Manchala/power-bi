@@ -68,7 +68,7 @@ for each_folder in json_folders:
     print(len(data_lis))
     df = pd.DataFrame(data_lis)
 
-    connection_string = f"postgresql+psycopg2://postgres:{quote('PowerBI@123')}@34.93.100.255/tirumala_traders"
+    connection_string = f"postgresql+psycopg2://postgres:{quote(password)}@{host}/{db}"
     engine = create_engine(connection_string, echo=True)
 
     connection = engine.connect()
