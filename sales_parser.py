@@ -4,14 +4,23 @@ import datetime
 import pandas as pd
 from urllib.parse import quote
 from sqlalchemy import create_engine
+from dotenv import load_dotenv
 
-json_folders = os.listdir("D:\\Python\\Projects\\Personal\\raw_data\\")
+load_dotenv()
+
+host = os.getenv("HOST")
+port = os.getenv("PORT")
+user = os.getenv("USER")
+db = os.getenv("DB")
+password = os.getenv("PASSWORD")
+
+json_folders = os.listdir("D:\\my_projects\\Power BI\\Personal\\power-bi\\raw_data\\")
 print(json_folders)
 for each_folder in json_folders:
     data_lis = []
-    json_file_path = os.listdir(f"D:\\Python\\Projects\\Personal\\raw_data\\{each_folder}")
+    json_file_path = os.listdir(f"D:\\my_projects\\Power BI\\Personal\\power-bi\\raw_data\\{each_folder}")
     for each_file in json_file_path:
-        with open(f"D:\\Python\\Projects\\Personal\\raw_data\\{each_folder}\\{each_file}", 'r') as json_file:
+        with open(f"D:\\my_projects\\Power BI\\Personal\\power-bi\\raw_data\\{each_folder}\\{each_file}", 'r') as json_file:
             data_dict = json.load(json_file)
 
         for each_dict in data_dict.get("data", {}).get("results", []):
@@ -59,7 +68,7 @@ for each_folder in json_folders:
     print(len(data_lis))
     df = pd.DataFrame(data_lis)
 
-    connection_string = f"mysql+mysqlconnector://root:{quote('PowerBI@123')}@35.200.156.96/tirumala_traders"
+    connection_string = f"postgresql+psycopg2://postgres:{quote('PowerBI@123')}@34.93.100.255/tirumala_traders"
     engine = create_engine(connection_string, echo=True)
 
     connection = engine.connect()
